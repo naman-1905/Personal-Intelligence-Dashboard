@@ -14,6 +14,10 @@ export default function ArticleCard({
       className={`article-card fade-in ${article.read ? "read" : ""} ${focused ? "focused" : ""}`}
       data-id={article.id}
     >
+      <div className="flashcard-topline">
+        <span className="category-pill">{article.category || "General"}</span>
+        <span>{timeAgo(article.published_at)}</span>
+      </div>
       <div className="meta">
         <span>{article.source}</span>
         <span>·</span>
@@ -27,12 +31,12 @@ export default function ArticleCard({
           </>
         ) : null}
       </div>
-      <h2>
+      <h2 className="flashcard-title">
         <Link href={`/article/${article.id}`} onClick={() => onMarkRead?.(article.id)}>
           {article.title}
         </Link>
       </h2>
-      <p className="summary">{article.summary}</p>
+      <p className="summary">{article.summary || "A concise briefing from your selected sources."}</p>
       <div className="actions">
         <Link href={`/article/${article.id}`} onClick={() => onMarkRead?.(article.id)}>
           Open
