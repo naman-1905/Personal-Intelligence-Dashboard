@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.news-dashboard/schemas/article.json",
+  "title": "Article",
+  "type": "object",
+  "required": ["source", "category", "title", "url", "published_at", "scraped_at"],
+  "properties": {
+    "source": { "type": "string" },
+    "category": { "type": "string" },
+    "title": { "type": "string" },
+    "summary": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "published_at": { "type": "string", "format": "date-time" },
+    "scraped_at": { "type": "string", "format": "date-time" },
+    "importance": { "type": "string", "enum": ["low", "medium", "high"] },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "dedup_hash": { "type": "string" },
+    "status": { "type": "string", "enum": ["active", "archived"] },
+    "raw_text": { "type": "string" }
+  }
+}
