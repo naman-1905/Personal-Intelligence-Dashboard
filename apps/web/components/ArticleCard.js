@@ -21,7 +21,9 @@ export default function ArticleCard({
         {article.importance ? (
           <>
             <span>·</span>
-            <span className="importance">{article.importance}</span>
+            <span className={`importance ${article.importance === "high" ? "high" : ""}`}>
+              {article.importance}
+            </span>
           </>
         ) : null}
       </div>
