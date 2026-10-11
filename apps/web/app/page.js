@@ -1,9 +1,10 @@
 import Feed from "@/components/Feed";
 import { getArticles, getStats } from "@/lib/api";
+import { isAllowedCategory } from "@/lib/categories";
 
 export default async function HomePage({ searchParams }) {
   const sp = await searchParams;
-  const category = sp?.category || undefined;
+  const category = sp?.category && isAllowedCategory(sp.category) ? sp.category : undefined;
   const topic = sp?.topic || undefined;
   const q = sp?.q || undefined;
   const importance = sp?.importance || undefined;
