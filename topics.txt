@@ -1,0 +1,13 @@
+# Research topics for the scraper agent — one per line.
+# Lines starting with '#' are ignored; blank lines are skipped.
+# A bare domain (e.g. techcrunch.com) is researched via a site: search,
+# anything else is treated as a topic keyword.
+# The scraper re-reads this file after every scrape cycle, so new
+# domains/topics added here are picked up on the next run automatically.
+techcrunch.com
+theverge.com
+arxiv.org
+quantum computing
+AI agents
+open source hardware
+semiconductors
