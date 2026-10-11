@@ -47,7 +47,7 @@ def fetch_rss(source: dict) -> list[dict]:
     parsed = feedparser.parse(content)
     items: list[dict] = []
     now = datetime.now(timezone.utc).isoformat()
-    for entry in parsed.entries[:40]:
+    for entry in parsed.entries[: settings.rss_items_per_source]:
         title = (entry.get("title") or "").strip()
         link = (entry.get("link") or "").strip()
         if not title or not link:
