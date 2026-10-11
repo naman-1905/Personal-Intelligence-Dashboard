@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
 
-export default function Sidebar({ categories = [], topics = [], theme, onThemeCycle }) {
+export default function Sidebar({ categories = [], topics = [] }) {
   const pathname = usePathname();
   const params = useSearchParams();
   const activeCategory = params.get("category");
@@ -73,20 +73,7 @@ export default function Sidebar({ categories = [], topics = [], theme, onThemeCy
         </nav>
       ) : null}
 
-      <div style={{ marginTop: "auto" }}>
-        <ul className="nav-list">
-          <li>
-            <button type="button" className="linkish" onClick={onThemeCycle}>
-              Theme: {theme}
-            </button>
-          </li>
-          <li>
-            <Link href="/settings" className={pathname === "/settings" ? "active" : ""}>
-              Settings
-            </Link>
-          </li>
-        </ul>
-      </div>
+      <div className="sidebar-note">Your calm corner of the internet.<br />Fresh stories, zero noise.</div>
     </aside>
   );
 }
