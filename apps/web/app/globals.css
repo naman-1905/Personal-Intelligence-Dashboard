@@ -280,6 +280,11 @@ input {
 .flashcard-topline { display: flex; justify-content: space-between; align-items: center; color: var(--muted); font-size: .74rem; margin-bottom: 1rem; }
 .category-pill { color: var(--ink); font-size: .68rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
 .flashcard-title { font-size: clamp(1.35rem, 5vw, 2rem) !important; letter-spacing: -.04em; }
+.card-footer { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 1.4rem; padding-top: .85rem; border-top: 1px solid rgba(23,23,23,.12); }
+.card-footer button, .read-story { border: 0; background: transparent; color: var(--ink); cursor: pointer; font-weight: 700; font-size: .82rem; }
+.read-story { background: var(--ink); color: #fff; border-radius: 999px; padding: .65rem .9rem; }
+.read-story span { margin-left: .3rem; transition: transform .2s ease; display: inline-block; }
+.read-story:hover span { transform: translateX(3px); }
 
 .article-card:hover {
   box-shadow: var(--shadow-card-hover);
@@ -360,7 +365,17 @@ input {
 
 .detail {
   max-width: var(--max-read);
+  margin: 0 auto;
+  padding: 2rem 0;
 }
+.detail .page-title { font-size: clamp(2rem, 6vw, 4.2rem); line-height: 1.02; max-width: 18ch; margin-top: 1rem; }
+.article-lede { font-size: 1.18rem !important; max-width: 42rem; }
+.article-body { max-width: 42rem; margin: 2rem 0; font-family: Georgia, serif; font-size: 1.13rem; line-height: 1.85; color: var(--ink); }
+.article-body p { margin: 0 0 1.35rem; }
+.detail-actions { display: flex; align-items: center; flex-wrap: wrap; gap: .7rem; padding: 1rem; border: 1px solid var(--line); border-radius: 20px; background: var(--bg-elevated); position: sticky; bottom: 1rem; box-shadow: 0 12px 30px rgba(23,23,23,.1); }
+.bookmark-control { border: 1px solid var(--line); border-radius: 999px; padding: .65rem .9rem; background: var(--bg-elevated); color: var(--ink); cursor: pointer; }
+.bookmark-control span { color: var(--accent); margin-right: .3rem; }
+.bookmark-control.is-saved { border-color: var(--accent); background: var(--accent-soft); }
 
 .detail .summary {
   font-size: 1.05rem;
@@ -467,6 +482,13 @@ input {
   .article-card {
     padding: 1rem;
   }
+
+  .feed { flex-direction: row; overflow-x: auto; scroll-snap-type: x mandatory; gap: .85rem; padding: .25rem .1rem 1.1rem; margin-right: -.9rem; padding-right: .9rem; scrollbar-width: none; }
+  .feed::-webkit-scrollbar { display: none; }
+  .feed .article-card { flex: 0 0 min(86vw, 24rem); scroll-snap-align: start; min-height: 25rem; display: flex; flex-direction: column; }
+  .feed .article-card .card-footer { margin-top: auto; }
+  .detail { padding: 1rem 0 2rem; }
+  .detail-actions { bottom: calc(4.5rem + env(safe-area-inset-bottom)); }
 
   .article-card h2 {
     font-size: 1.15rem;

@@ -37,19 +37,16 @@ export default function ArticleCard({
         </Link>
       </h2>
       <p className="summary">{article.summary || "A concise briefing from your selected sources."}</p>
-      <div className="actions">
-        <Link href={`/article/${article.id}`} onClick={() => onMarkRead?.(article.id)}>
-          Open
+      <div className="card-footer">
+        <Link className="read-story" href={`/article/${article.id}`} onClick={() => onMarkRead?.(article.id)}>
+          Read story <span aria-hidden="true">→</span>
         </Link>
-        <a href={article.url} target="_blank" rel="noopener noreferrer">
-          Read original →
-        </a>
         <button
           type="button"
           className={article.bookmarked ? "bookmarked" : ""}
           onClick={() => onBookmark?.(article.id)}
         >
-          {article.bookmarked ? "Bookmarked" : "Bookmark"}
+          {article.bookmarked ? "★ Saved" : "☆ Save"}
         </button>
       </div>
     </article>

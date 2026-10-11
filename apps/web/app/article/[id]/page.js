@@ -30,13 +30,18 @@ export default async function ArticlePage({ params }) {
         <span className="importance">{article.importance}</span>
       </p>
       <h1 className="page-title">{article.title}</h1>
-      <p className="summary">{article.summary}</p>
+      <p className="summary article-lede">{article.summary}</p>
+      <div className="article-body">
+        {(article.article || article.summary || "No generated article is available yet.").split(/\n\s*\n/).map((paragraph, index) => (
+          <p key={index}>{paragraph}</p>
+        ))}
+      </div>
       {article.tags?.length ? (
         <div className="tags">{article.tags.map((t) => `#${t}`).join("  ")}</div>
       ) : null}
-      <div className="actions">
+      <div className="detail-actions">
         <a className="btn btn-accent" href={article.url} target="_blank" rel="noopener noreferrer">
-          Read full article →
+          Open source ↗
         </a>
         <BookmarkButton id={article.id} initial={article.bookmarked} />
         <Link href="/">← Feed</Link>

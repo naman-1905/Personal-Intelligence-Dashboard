@@ -12,8 +12,8 @@ export default function BookmarkButton({ id, initial = false }) {
   }
 
   return (
-    <button type="button" className="btn" onClick={onClick}>
-      {bookmarked ? "Bookmarked" : "Bookmark"}
+    <button type="button" className={`bookmark-control ${bookmarked ? "is-saved" : ""}`} onClick={onClick}>
+      <span aria-hidden="true">{bookmarked ? "★" : "☆"}</span>{bookmarked ? "Saved" : "Save story"}
     </button>
   );
 }
