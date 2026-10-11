@@ -29,8 +29,16 @@ async def get_preferences() -> PreferencesOut:
     if not doc:
         doc = {
             "user_id": user_id,
-            "selected_categories": ["technology", "science", "world", "business"],
-            "category_order": ["technology", "science", "world", "business"],
+            "selected_categories": [
+                "technology", "software-dev", "ai-ml", "gaming", "india",
+                "politics-policy", "business", "cars", "f1", "marvel",
+                "science", "world",
+            ],
+            "category_order": [
+                "technology", "software-dev", "ai-ml", "gaming", "india",
+                "politics-policy", "business", "cars", "f1", "marvel",
+                "science", "world",
+            ],
             "mute_keywords": [],
             "theme": "system",
             "digest_hour": get_settings().digest_default_hour,
