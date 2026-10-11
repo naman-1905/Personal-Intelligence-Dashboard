@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.news-dashboard/schemas/raw-item.json",
+  "title": "RawScrapedItem",
+  "type": "object",
+  "required": ["source", "category", "title", "url", "published_at", "raw_text", "scraped_at"],
+  "properties": {
+    "source": { "type": "string" },
+    "category": { "type": "string" },
+    "title": { "type": "string" },
+    "url": { "type": "string" },
+    "published_at": { "type": "string" },
+    "raw_text": { "type": "string" },
+    "scraped_at": { "type": "string" }
+  }
+}
