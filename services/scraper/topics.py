@@ -11,7 +11,14 @@ DOMAIN_RE = re.compile(r"^[a-z0-9][a-z0-9.-]*\.[a-z]{2,}$", re.IGNORECASE)
 
 # keyword hints -> category; topics that match none fall back to "topics"
 CATEGORY_HINTS: dict[str, list[str]] = {
-    "technology": ["tech", "ai", "software", "internet", "chip", "semiconductor", "open source", "hardware"],
+    "ai-ml": ["ai", "machine learning", "deep learning", "llm", "neural", "openai", "anthropic"],
+    "software-dev": ["programming", "software", "developer", "coding", "open source"],
+    "gaming": ["gaming", "game", "esports", "playstation", "xbox", "nintendo", "steam"],
+    "india": ["india", "bharat", "mumbai", "delhi", "bangalore"],
+    "cars": ["automotive", "tesla", "electric vehicle", "car market"],
+    "f1": ["formula 1", "formula one", "f1", "racing"],
+    "marvel": ["marvel", "mcu", "avengers", "spider-man", "iron man"],
+    "technology": ["tech", "internet", "chip", "semiconductor", "hardware"],
     "science": ["science", "space", "physics", "biology", "nasa", "quantum", "arxiv", "research"],
     "world": ["world", "europe", "politics", "war", "climate", "election"],
     "business": ["business", "market", "finance", "stock", "economy", "startup"],
