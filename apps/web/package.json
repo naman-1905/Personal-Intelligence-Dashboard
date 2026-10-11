@@ -14,6 +14,7 @@
     "@capacitor/android": "^7.2.0",
     "@capacitor/core": "^7.2.0",
     "@capacitor/share": "^7.0.1",
+    "lucide-react": "^1.55.0",
     "next": "^15.2.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
