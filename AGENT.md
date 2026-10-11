@@ -61,7 +61,7 @@ Verified: sync reports `{total: 7, added: 7}`; `GET /topics` returns all 7; a te
 - **JavaScript** frontend (no TS)  
 - Shared contracts = **JSON Schema** in `packages/shared` (not a TS `shared-types` package)  
 - Everything via **local Docker Compose**  
-- `user_id = "local"` stub for later auth  
+- `user_id = "local"` — **no auth planned** (app is in testing; no Play Store publish, per user 2026-10-11)  
 - Ollama with **heuristic filter fallback** if model unavailable  
 - Next.js `output: "standalone"` for Docker  
 - Capacitor uses `server.url` → local Next (emulator `10.0.2.2:3000`), not forced static export for personal use  
@@ -260,7 +260,7 @@ cd apps/mobile-shell && npm install && npx cap add android && npx cap sync
 - Confirm/optimize Reuters source URL (seeded disabled in mongo-init)  
 - Distinguish title-dedup skips from LLM rejections in pipeline counters (`filtered_out` currently lumps both)  
 - GPU passthrough: uncomment `deploy.resources` under `ollama` in compose when NVIDIA toolkit exists  
-- Phase 2+: HTML scrapers, source health, archive/prune, real auth  
+- Phase 2+: HTML scrapers, source health, archive/prune (auth explicitly out of scope — see locked decisions)  
 
 ---
 
