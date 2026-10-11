@@ -1,0 +1,5686 @@
+[
+  {
+    "name": "the-verge",
+    "display_name": "The Verge",
+    "category": "technology",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "techcrunch",
+    "display_name": "TechCrunch",
+    "category": "technology",
+    "url": "https://techcrunch.com/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "wired",
+    "display_name": "Wired",
+    "category": "technology",
+    "url": "https://www.wired.com/feed/rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "engadget",
+    "display_name": "Engadget",
+    "category": "technology",
+    "url": "https://www.engadget.com/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "cnet-news",
+    "display_name": "CNET News",
+    "category": "technology",
+    "url": "https://www.cnet.com/rss/news/",
+    "trust_tier": 2
+  },
+  {
+    "name": "tom-s-hardware",
+    "display_name": "Tom's Hardware",
+    "category": "technology",
+    "url": "https://www.tomshardware.com/feeds/all",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-register",
+    "display_name": "The Register",
+    "category": "technology",
+    "url": "https://www.theregister.com/headlines.atom",
+    "trust_tier": 2
+  },
+  {
+    "name": "techmeme",
+    "display_name": "Techmeme",
+    "category": "technology",
+    "url": "https://techmeme.com/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "9to5mac",
+    "display_name": "9to5Mac",
+    "category": "technology",
+    "url": "https://9to5mac.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "android-central",
+    "display_name": "Android Central",
+    "category": "technology",
+    "url": "https://www.androidcentral.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "xda-developers",
+    "display_name": "XDA Developers",
+    "category": "technology",
+    "url": "https://www.xda-developers.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "hackaday",
+    "display_name": "Hackaday",
+    "category": "technology",
+    "url": "https://hackaday.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "fortune-tech",
+    "display_name": "Fortune Tech",
+    "category": "technology",
+    "url": "https://fortune.com/section/tech/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "gizmodo",
+    "display_name": "Gizmodo",
+    "category": "technology",
+    "url": "https://gizmodo.com/rss/gizmodo/main/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "venturebeat",
+    "display_name": "VentureBeat",
+    "category": "technology",
+    "url": "https://venturebeat.com/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "techradar",
+    "display_name": "TechRadar",
+    "category": "technology",
+    "url": "https://www.techradar.com/feeds/latest",
+    "trust_tier": 3
+  },
+  {
+    "name": "digital-trends",
+    "display_name": "Digital Trends",
+    "category": "technology",
+    "url": "https://www.digitaltrends.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-information",
+    "display_name": "The Information",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site%3Atheinformation.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "bloomberg-technology",
+    "display_name": "Bloomberg Technology",
+    "category": "technology",
+    "url": "https://feeds.bloomberg.com/technology/news.rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "wsj-technology",
+    "display_name": "WSJ Technology",
+    "category": "technology",
+    "url": "https://feeds.a.dj.com/rss/RSSTechnology.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "reuters-technology",
+    "display_name": "Reuters Technology",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+technology&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "ft-technology",
+    "display_name": "FT Technology",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site%3Aft.com+technology&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "new-scientist",
+    "display_name": "New Scientist",
+    "category": "technology",
+    "url": "https://www.newscientist.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "nature-news",
+    "display_name": "Nature News",
+    "category": "technology",
+    "url": "https://www.nature.com/news.rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "quanta-magazine",
+    "display_name": "Quanta Magazine",
+    "category": "technology",
+    "url": "https://www.quantamagazine.org/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "smithsonian-magazine",
+    "display_name": "Smithsonian Magazine",
+    "category": "technology",
+    "url": "https://www.smithsonianmag.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "space-com",
+    "display_name": "Space.com",
+    "category": "technology",
+    "url": "https://www.space.com/feeds/all",
+    "trust_tier": 2
+  },
+  {
+    "name": "universe-today",
+    "display_name": "Universe Today",
+    "category": "technology",
+    "url": "https://www.universetoday.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "nasa-news",
+    "display_name": "NASA News",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site%3Anasa.gov+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "github-blog",
+    "display_name": "GitHub Blog",
+    "category": "software-dev",
+    "url": "https://github.blog/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "stack-overflow-blog",
+    "display_name": "Stack Overflow Blog",
+    "category": "software-dev",
+    "url": "https://stackoverflow.blog/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "smashing-magazine",
+    "display_name": "Smashing Magazine",
+    "category": "software-dev",
+    "url": "https://www.smashingmagazine.com/feed.htm",
+    "trust_tier": 2
+  },
+  {
+    "name": "freecodecamp-news",
+    "display_name": "freeCodeCamp News",
+    "category": "software-dev",
+    "url": "https://www.freecodecamp.org/news/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "dev-to",
+    "display_name": "Dev.to",
+    "category": "software-dev",
+    "url": "https://dev.to/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "react-blog",
+    "display_name": "React Blog",
+    "category": "software-dev",
+    "url": "https://react.dev/blog/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "vue-js-blog",
+    "display_name": "Vue.js Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site%3Avuejs.org+blog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "rust-blog",
+    "display_name": "Rust Blog",
+    "category": "software-dev",
+    "url": "https://blog.rust-lang.org/atom.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "python-insider",
+    "display_name": "Python Insider",
+    "category": "software-dev",
+    "url": "https://blog.python.org/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "go-blog",
+    "display_name": "Go Blog",
+    "category": "software-dev",
+    "url": "https://go.dev/blog/feed.atom",
+    "trust_tier": 2
+  },
+  {
+    "name": "net-blog",
+    "display_name": ".NET Blog",
+    "category": "software-dev",
+    "url": "https://devblogs.microsoft.com/dotnet/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "node-js-blog",
+    "display_name": "Node.js Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site%3Anodejs.org+blog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "deno-blog",
+    "display_name": "Deno Blog",
+    "category": "software-dev",
+    "url": "https://deno.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "red-hat-blog",
+    "display_name": "Red Hat Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site%3Aredhat.com+blog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "phoronix",
+    "display_name": "Phoronix",
+    "category": "software-dev",
+    "url": "https://www.phoronix.com/feed.php",
+    "trust_tier": 2
+  },
+  {
+    "name": "lwn-net",
+    "display_name": "LWN.net",
+    "category": "software-dev",
+    "url": "https://lwn.net/headlines/newssummary",
+    "trust_tier": 2
+  },
+  {
+    "name": "infoq",
+    "display_name": "InfoQ",
+    "category": "software-dev",
+    "url": "https://www.infoq.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-new-stack",
+    "display_name": "The New Stack",
+    "category": "software-dev",
+    "url": "https://thenewstack.io/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "real-python",
+    "display_name": "Real Python",
+    "category": "software-dev",
+    "url": "https://realpython.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "mozilla-hacks",
+    "display_name": "Mozilla Hacks",
+    "category": "software-dev",
+    "url": "https://hacks.mozilla.org/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "web-dev-blog",
+    "display_name": "web.dev Blog",
+    "category": "software-dev",
+    "url": "https://web.dev/static/blog/feed.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "chrome-developers-blog",
+    "display_name": "Chrome Developers Blog",
+    "category": "software-dev",
+    "url": "https://developer.chrome.com/static/blog/feed.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "mdn-blog",
+    "display_name": "MDN Blog",
+    "category": "software-dev",
+    "url": "https://developer.mozilla.org/en-US/blog/rss.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "google-developers-blog",
+    "display_name": "Google Developers Blog",
+    "category": "software-dev",
+    "url": "https://developers.googleblog.com/feeds/posts/default",
+    "trust_tier": 2
+  },
+  {
+    "name": "apple-developer-news",
+    "display_name": "Apple Developer News",
+    "category": "software-dev",
+    "url": "https://developer.apple.com/news/rss/releases.rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "flutter-blog",
+    "display_name": "Flutter Blog",
+    "category": "software-dev",
+    "url": "https://flutter.dev/blog/atom.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "swift-org-blog",
+    "display_name": "Swift.org Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site%3Aswift.org+blog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "kotlin-blog",
+    "display_name": "Kotlin Blog",
+    "category": "software-dev",
+    "url": "https://kotlinlang.org/feed.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "typescript-blog",
+    "display_name": "TypeScript Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site%3Adevblogs.microsoft.com+typescript&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "zig-blog",
+    "display_name": "Zig Blog",
+    "category": "software-dev",
+    "url": "https://ziglang.org/blog/index.atom",
+    "trust_tier": 3
+  },
+  {
+    "name": "elixir-blog",
+    "display_name": "Elixir Blog",
+    "category": "software-dev",
+    "url": "https://www.elixir-lang.org/feed.atom",
+    "trust_tier": 3
+  },
+  {
+    "name": "ruby-news",
+    "display_name": "Ruby News",
+    "category": "software-dev",
+    "url": "https://www.ruby-lang.org/en/news/atom.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "ibm-developer",
+    "display_name": "IBM Developer",
+    "category": "software-dev",
+    "url": "https://developer.ibm.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "aws-devops-blog",
+    "display_name": "AWS DevOps Blog",
+    "category": "software-dev",
+    "url": "https://aws.amazon.com/blogs/devops/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "cloudflare-blog",
+    "display_name": "Cloudflare Blog",
+    "category": "software-dev",
+    "url": "https://blog.cloudflare.com/rss/",
+    "trust_tier": 2
+  },
+  {
+    "name": "digitalocean-blog",
+    "display_name": "DigitalOcean Blog",
+    "category": "software-dev",
+    "url": "https://www.digitalocean.com/community/feed.rss",
+    "trust_tier": 3
+  },
+  {
+    "name": "vercel-blog",
+    "display_name": "Vercel Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site%3Avercel.com+blog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "mit-technology-review",
+    "display_name": "MIT Technology Review",
+    "category": "ai-ml",
+    "url": "https://www.technologyreview.com/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "openai-news",
+    "display_name": "OpenAI News",
+    "category": "ai-ml",
+    "url": "https://openai.com/news/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "google-deepmind-blog",
+    "display_name": "Google DeepMind Blog",
+    "category": "ai-ml",
+    "url": "https://deepmind.google/discover/blog/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "google-research-blog",
+    "display_name": "Google Research Blog",
+    "category": "ai-ml",
+    "url": "https://research.google/blog/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "microsoft-research-blog",
+    "display_name": "Microsoft Research Blog",
+    "category": "ai-ml",
+    "url": "https://www.microsoft.com/en-us/research/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "anthropic-news",
+    "display_name": "Anthropic News",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com%2Fnews&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "hugging-face-blog",
+    "display_name": "Hugging Face Blog",
+    "category": "ai-ml",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "meta-ai-blog",
+    "display_name": "Meta AI Blog",
+    "category": "ai-ml",
+    "url": "https://ai.meta.com/blog/rss/",
+    "trust_tier": 1
+  },
+  {
+    "name": "ibm-research-blog",
+    "display_name": "IBM Research Blog",
+    "category": "ai-ml",
+    "url": "https://research.ibm.com/blog/feed",
+    "trust_tier": 1
+  },
+  {
+    "name": "apple-ml-research",
+    "display_name": "Apple ML Research",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Amachinelearning.apple.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "amazon-science",
+    "display_name": "Amazon Science",
+    "category": "ai-ml",
+    "url": "https://www.amazon.science/index.rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "the-gradient",
+    "display_name": "The Gradient",
+    "category": "ai-ml",
+    "url": "https://thegradient.pub/rss/",
+    "trust_tier": 1
+  },
+  {
+    "name": "venturebeat-ai",
+    "display_name": "VentureBeat AI",
+    "category": "ai-ml",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "techcrunch-ai",
+    "display_name": "TechCrunch AI",
+    "category": "ai-ml",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "the-verge-ai",
+    "display_name": "The Verge AI",
+    "category": "ai-ml",
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "ars-technica-ai",
+    "display_name": "Ars Technica AI",
+    "category": "ai-ml",
+    "url": "https://arstechnica.com/ai/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "wired-ai",
+    "display_name": "Wired AI",
+    "category": "ai-ml",
+    "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "nature-machine-intelligence",
+    "display_name": "Nature Machine Intelligence",
+    "category": "ai-ml",
+    "url": "https://www.nature.com/natmachintell.rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "ieee-spectrum",
+    "display_name": "IEEE Spectrum",
+    "category": "ai-ml",
+    "url": "https://spectrum.ieee.org/feeds/feed.rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "arxiv-cs-lg",
+    "display_name": "arXiv cs.LG",
+    "category": "ai-ml",
+    "url": "http://export.arxiv.org/rss/cs.LG",
+    "trust_tier": 1
+  },
+  {
+    "name": "arxiv-cs-cl",
+    "display_name": "arXiv cs.CL",
+    "category": "ai-ml",
+    "url": "http://export.arxiv.org/rss/cs.CL",
+    "trust_tier": 1
+  },
+  {
+    "name": "arxiv-stat-ml",
+    "display_name": "arXiv stat.ML",
+    "category": "ai-ml",
+    "url": "http://export.arxiv.org/rss/stat.ML",
+    "trust_tier": 1
+  },
+  {
+    "name": "google-ai-blog",
+    "display_name": "Google AI Blog",
+    "category": "ai-ml",
+    "url": "https://blog.google/technology/ai/rss/",
+    "trust_tier": 1
+  },
+  {
+    "name": "aws-machine-learning-blog",
+    "display_name": "AWS Machine Learning Blog",
+    "category": "ai-ml",
+    "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "stanford-hai",
+    "display_name": "Stanford HAI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Ahai.stanford.edu&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "mit-sloan-management-review",
+    "display_name": "MIT Sloan Management Review",
+    "category": "ai-ml",
+    "url": "https://sloanreview.mit.edu/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "nvidia-developer-blog",
+    "display_name": "NVIDIA Developer Blog",
+    "category": "ai-ml",
+    "url": "https://developer.nvidia.com/blog/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "amd-newsroom",
+    "display_name": "AMD Newsroom",
+    "category": "ai-ml",
+    "url": "https://www.amd.com/en/newsroom.rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "qualcomm-newsroom",
+    "display_name": "Qualcomm Newsroom",
+    "category": "ai-ml",
+    "url": "https://www.qualcomm.com/news/releases/default.rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "google-cloud-ai-blog",
+    "display_name": "Google Cloud AI Blog",
+    "category": "ai-ml",
+    "url": "https://cloud.google.com/blog/topics/ai-machine-learning/rss_feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "azure-ai-blog",
+    "display_name": "Azure AI Blog",
+    "category": "ai-ml",
+    "url": "https://azure.microsoft.com/en-us/blog/category/artificial-intelligence/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "databricks-blog",
+    "display_name": "Databricks Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Adatabricks.com%2Fblog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "snowflake-blog",
+    "display_name": "Snowflake Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Asnowflake.com%2Fen%2Fblog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "linkedin-engineering",
+    "display_name": "LinkedIn Engineering",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Aengineering.linkedin.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "netflix-tech-blog",
+    "display_name": "Netflix Tech Blog",
+    "category": "ai-ml",
+    "url": "https://netflixtechblog.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "uber-ai-blog",
+    "display_name": "Uber AI Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Auber.com%2Fblog%2Fcategory%2Fai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "tesla-ai",
+    "display_name": "Tesla AI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Atesla.com%2Fblog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "waymo-blog",
+    "display_name": "Waymo Blog",
+    "category": "ai-ml",
+    "url": "https://waymo.com/blog/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "intel-newsroom",
+    "display_name": "Intel Newsroom",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Anewsroom.intel.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "sap-news-center",
+    "display_name": "SAP News Center",
+    "category": "ai-ml",
+    "url": "https://news.sap.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "gitlab-blog",
+    "display_name": "GitLab Blog",
+    "category": "ai-ml",
+    "url": "https://about.gitlab.com/atom.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "jetbrains-blog",
+    "display_name": "JetBrains Blog",
+    "category": "ai-ml",
+    "url": "https://blog.jetbrains.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "hashicorp-blog",
+    "display_name": "HashiCorp Blog",
+    "category": "ai-ml",
+    "url": "https://www.hashicorp.com/blog/index.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "datadog-blog",
+    "display_name": "Datadog Blog",
+    "category": "ai-ml",
+    "url": "https://www.datadoghq.com/blog/index.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "elastic-blog",
+    "display_name": "Elastic Blog",
+    "category": "ai-ml",
+    "url": "https://www.elastic.co/blog/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "redis-blog",
+    "display_name": "Redis Blog",
+    "category": "ai-ml",
+    "url": "https://redis.io/blog/atom.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "confluent-blog",
+    "display_name": "Confluent Blog",
+    "category": "ai-ml",
+    "url": "https://www.confluent.io/blog/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "kubernetes-blog",
+    "display_name": "Kubernetes Blog",
+    "category": "ai-ml",
+    "url": "https://kubernetes.io/feed.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "docker-blog",
+    "display_name": "Docker Blog",
+    "category": "ai-ml",
+    "url": "https://www.docker.com/blog/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "weights-biases-blog",
+    "display_name": "Weights & Biases Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Awandb.ai%2Fblog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "comet-ml-blog",
+    "display_name": "Comet ML Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Acomet.ml%2Fsite%2Fblog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "mlflow-blog",
+    "display_name": "MLflow Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Amlflow.org%2Fblog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "optuna-blog",
+    "display_name": "Optuna Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Aoptuna.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "boston-dynamics-blog",
+    "display_name": "Boston Dynamics Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Abostondynamics.com%2Fblog&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "figure-ai-news",
+    "display_name": "Figure AI News",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Afigure.ai%2Fnews&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "1x-technologies",
+    "display_name": "1X Technologies",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3A1x.tech%2Fdiscover&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "agility-robotics",
+    "display_name": "Agility Robotics",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Aagilityrobotics.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "irobot-newsroom",
+    "display_name": "iRobot Newsroom",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Airobot.com%2Fen-us%2Fabout-irobot%2Fnewsroom&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "unitree-robotics",
+    "display_name": "Unitree Robotics",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Aunitree.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "future-of-life-institute",
+    "display_name": "Future of Life Institute",
+    "category": "ai-ml",
+    "url": "https://futureoflife.org/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "ben-s-bites",
+    "display_name": "Ben's Bites",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Abensbites.io&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "interconnects",
+    "display_name": "Interconnects",
+    "category": "ai-ml",
+    "url": "https://www.interconnects.ai/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-batch-deeplearning-ai",
+    "display_name": "The Batch (deeplearning.ai)",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Adeeplearning.ai%2Fthe-batch&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "import-ai",
+    "display_name": "Import AI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Aimportai.substack.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "superhuman-ai",
+    "display_name": "Superhuman AI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Asuperhumanai.substack.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "last-week-in-ai",
+    "display_name": "Last Week in AI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Alastweekin.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-neuron",
+    "display_name": "The Neuron",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Atheneuron.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "tldr-ai",
+    "display_name": "TLDR AI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Atldr.tech%2Fai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "towards-data-science",
+    "display_name": "Towards Data Science",
+    "category": "ai-ml",
+    "url": "https://towardsdatascience.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "machine-learning-mastery",
+    "display_name": "Machine Learning Mastery",
+    "category": "ai-ml",
+    "url": "https://machinelearningmastery.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "kdnuggets",
+    "display_name": "KDnuggets",
+    "category": "ai-ml",
+    "url": "https://www.kdnuggets.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "data-science-central",
+    "display_name": "Data Science Central",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Adatasciencecentral.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "mlops-community",
+    "display_name": "MLOps Community",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Amlops.community&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-ai-vortex",
+    "display_name": "The AI Vortex",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Atheaivortex.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ign",
+    "display_name": "IGN",
+    "category": "gaming",
+    "url": "https://www.ign.com/feed",
+    "trust_tier": 1
+  },
+  {
+    "name": "polygon",
+    "display_name": "Polygon",
+    "category": "gaming",
+    "url": "https://www.polygon.com/rss/index.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "gamespot",
+    "display_name": "GameSpot",
+    "category": "gaming",
+    "url": "https://www.gamespot.com/feeds/all",
+    "trust_tier": 2
+  },
+  {
+    "name": "kotaku",
+    "display_name": "Kotaku",
+    "category": "gaming",
+    "url": "https://kotaku.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "eurogamer",
+    "display_name": "Eurogamer",
+    "category": "gaming",
+    "url": "https://www.eurogamer.net/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "rock-paper-shotgun",
+    "display_name": "Rock Paper Shotgun",
+    "category": "gaming",
+    "url": "https://www.rockpapershotgun.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "pc-gamer",
+    "display_name": "PC Gamer",
+    "category": "gaming",
+    "url": "https://www.pcgamer.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "gamesradar",
+    "display_name": "GamesRadar+",
+    "category": "gaming",
+    "url": "https://www.gamesradar.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-verge-gaming",
+    "display_name": "The Verge Gaming",
+    "category": "gaming",
+    "url": "https://www.theverge.com/rss/games/index.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "push-square",
+    "display_name": "Push Square",
+    "category": "gaming",
+    "url": "https://www.pushsquare.com/feeds/full",
+    "trust_tier": 2
+  },
+  {
+    "name": "vg247",
+    "display_name": "VG247",
+    "category": "gaming",
+    "url": "https://www.vg247.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "destructoid",
+    "display_name": "Destructoid",
+    "category": "gaming",
+    "url": "https://www.destructoid.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "pcgamesn",
+    "display_name": "PCGamesN",
+    "category": "gaming",
+    "url": "https://www.pcgamesn.com/rss",
+    "trust_tier": 3
+  },
+  {
+    "name": "gamesindustry-biz",
+    "display_name": "GamesIndustry.biz",
+    "category": "gaming",
+    "url": "https://www.gamesindustry.biz/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "uploadvr",
+    "display_name": "UploadVR",
+    "category": "gaming",
+    "url": "https://uploadvr.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "pocketgamer",
+    "display_name": "PocketGamer",
+    "category": "gaming",
+    "url": "https://www.pocketgamer.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "toucharcade",
+    "display_name": "TouchArcade",
+    "category": "gaming",
+    "url": "https://toucharcade.com/en-US/rss.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "nintendo-life",
+    "display_name": "Nintendo Life",
+    "category": "gaming",
+    "url": "https://www.nintendolife.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "playstation-blog",
+    "display_name": "PlayStation Blog",
+    "category": "gaming",
+    "url": "https://blog.playstation.com/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "xbox-wire",
+    "display_name": "Xbox Wire",
+    "category": "gaming",
+    "url": "https://news.xbox.com/en-US/rss/",
+    "trust_tier": 1
+  },
+  {
+    "name": "steam-news",
+    "display_name": "Steam News",
+    "category": "gaming",
+    "url": "https://store.steampowered.com/newsfeed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "epic-games-store-news",
+    "display_name": "Epic Games Store News",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site%3Adev.epicgames.com+store&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ea-press-releases",
+    "display_name": "EA Press Releases",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site%3Aea.com+press+releases&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "ubisoft-group-news",
+    "display_name": "Ubisoft Group News",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site%3Aubisoftgroup.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "sony-press-room",
+    "display_name": "Sony Press Room",
+    "category": "gaming",
+    "url": "https://www.sony.com/en/SonyInfo/PressRoom/release/rss/?category=news",
+    "trust_tier": 2
+  },
+  {
+    "name": "cd-projekt-red",
+    "display_name": "CD Projekt Red",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site%3Acdprojectred.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "take-two-interactive-news",
+    "display_name": "Take-Two Interactive News",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site%3Atake2interactive.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "espn-esports",
+    "display_name": "ESPN Esports",
+    "category": "gaming",
+    "url": "https://www.espn.com/espn/rss/esports",
+    "trust_tier": 2
+  },
+  {
+    "name": "hltv-news",
+    "display_name": "HLTV News",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site%3Ahltv.org+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gdc-news",
+    "display_name": "GDC News",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site%3Agdc.io&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "times-of-india",
+    "display_name": "Times of India",
+    "category": "india",
+    "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "trust_tier": 1
+  },
+  {
+    "name": "the-hindu",
+    "display_name": "The Hindu",
+    "category": "india",
+    "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "indian-express",
+    "display_name": "Indian Express",
+    "category": "india",
+    "url": "https://indianexpress.com/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "ndtv",
+    "display_name": "NDTV",
+    "category": "india",
+    "url": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "trust_tier": 1
+  },
+  {
+    "name": "hindustan-times",
+    "display_name": "Hindustan Times",
+    "category": "india",
+    "url": "https://www.hindustantimes.com/rss/homepage/news.rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "economic-times",
+    "display_name": "Economic Times",
+    "category": "india",
+    "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
+    "trust_tier": 1
+  },
+  {
+    "name": "business-standard",
+    "display_name": "Business Standard",
+    "category": "india",
+    "url": "https://www.business-standard.com/rss/latest_news.rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "livemint",
+    "display_name": "LiveMint",
+    "category": "india",
+    "url": "https://www.livemint.com/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "news18",
+    "display_name": "News18",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Anews18.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "zee-news",
+    "display_name": "Zee News",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Azeenews.india.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "india-today",
+    "display_name": "India Today",
+    "category": "india",
+    "url": "https://indiatoday.in/rss.php?path=TopStories/rss1.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "scroll-in",
+    "display_name": "Scroll.in",
+    "category": "india",
+    "url": "https://scroll.in/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "firstpost",
+    "display_name": "Firstpost",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Afirstpost.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-wire",
+    "display_name": "The Wire",
+    "category": "india",
+    "url": "https://thewire.in/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "outlook-business",
+    "display_name": "Outlook Business",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Aoutlookindia.com+business&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "deccan-herald",
+    "display_name": "Deccan Herald",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Adeccanherald.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "bbc-news-india",
+    "display_name": "BBC News India",
+    "category": "india",
+    "url": "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "reuters-india",
+    "display_name": "Reuters India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+india&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "cnbc-tv18",
+    "display_name": "CNBC-TV18",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Acnbctv18.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "moneycontrol-news",
+    "display_name": "Moneycontrol News",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Amoneycontrol.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pib-india",
+    "display_name": "PIB India",
+    "category": "india",
+    "url": "https://www.pib.gov.in/rssfeed.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "mea-india",
+    "display_name": "MEA India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Amea.gov.in+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "politico",
+    "display_name": "Politico",
+    "category": "politics-policy",
+    "url": "https://www.politico.com/rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "ap-top-news",
+    "display_name": "AP Top News",
+    "category": "politics-policy",
+    "url": "https://apnews.com/feeds/aptopnews",
+    "trust_tier": 1
+  },
+  {
+    "name": "the-hill",
+    "display_name": "The Hill",
+    "category": "politics-policy",
+    "url": "https://thehill.com/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "pbs-newshour",
+    "display_name": "PBS NewsHour",
+    "category": "politics-policy",
+    "url": "https://www.pbs.org/newshour/rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "npr-news",
+    "display_name": "NPR News",
+    "category": "politics-policy",
+    "url": "https://feeds.npr.org/1001/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "bbc-politics",
+    "display_name": "BBC Politics",
+    "category": "politics-policy",
+    "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "washington-post-politics",
+    "display_name": "Washington Post Politics",
+    "category": "politics-policy",
+    "url": "https://feeds.washingtonpost.com/rss/politics",
+    "trust_tier": 1
+  },
+  {
+    "name": "nyt-politics",
+    "display_name": "NYT Politics",
+    "category": "politics-policy",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "guardian-us-politics",
+    "display_name": "Guardian US Politics",
+    "category": "politics-policy",
+    "url": "https://www.theguardian.com/us-news/politics/rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "al-jazeera",
+    "display_name": "Al Jazeera",
+    "category": "politics-policy",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "reuters-world",
+    "display_name": "Reuters World",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+world+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "roll-call",
+    "display_name": "Roll Call",
+    "category": "politics-policy",
+    "url": "https://rollcall.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-intercept",
+    "display_name": "The Intercept",
+    "category": "politics-policy",
+    "url": "https://theintercept.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "propublica",
+    "display_name": "ProPublica",
+    "category": "politics-policy",
+    "url": "https://www.propublica.org/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "vox",
+    "display_name": "Vox",
+    "category": "politics-policy",
+    "url": "https://www.vox.com/rss/index.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "slate-politics",
+    "display_name": "Slate Politics",
+    "category": "politics-policy",
+    "url": "https://slate.com/rss/news-politics.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-atlantic",
+    "display_name": "The Atlantic",
+    "category": "politics-policy",
+    "url": "https://www.theatlantic.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "brookings",
+    "display_name": "Brookings",
+    "category": "politics-policy",
+    "url": "https://www.brookings.edu/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "pew-research-center",
+    "display_name": "Pew Research Center",
+    "category": "politics-policy",
+    "url": "https://www.pewresearch.org/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "cato-institute",
+    "display_name": "Cato Institute",
+    "category": "politics-policy",
+    "url": "https://www.cato.org/blog/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "heritage-foundation",
+    "display_name": "Heritage Foundation",
+    "category": "politics-policy",
+    "url": "https://heritage.org/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "aei",
+    "display_name": "AEI",
+    "category": "politics-policy",
+    "url": "https://aei.org/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "csis",
+    "display_name": "CSIS",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Acsis.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "council-on-foreign-relations",
+    "display_name": "Council on Foreign Relations",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Acfr.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "atlantic-council",
+    "display_name": "Atlantic Council",
+    "category": "politics-policy",
+    "url": "https://www.atlanticcouncil.org/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "carnegie-endowment",
+    "display_name": "Carnegie Endowment",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Acarnegieendowment.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "peterson-institute-piie",
+    "display_name": "Peterson Institute (PIIE)",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Apiie.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "rand-corporation",
+    "display_name": "RAND Corporation",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Arand.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "urban-institute",
+    "display_name": "Urban Institute",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aurban.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "chatham-house",
+    "display_name": "Chatham House",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Achathamhouse.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "iiss",
+    "display_name": "IISS",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aiiss.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "white-house-news",
+    "display_name": "White House News",
+    "category": "politics-policy",
+    "url": "https://www.whitehouse.gov/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "state-department-news",
+    "display_name": "State Department News",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Astate.gov%2Fnews&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "house-news",
+    "display_name": "House News",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Ahouse.gov&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "senate-news",
+    "display_name": "Senate News",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Asenate.gov&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "federal-register",
+    "display_name": "Federal Register",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Afederalregister.gov&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "dw-news",
+    "display_name": "DW News",
+    "category": "politics-policy",
+    "url": "https://rss.dw.com/rdf/rss-en-all",
+    "trust_tier": 2
+  },
+  {
+    "name": "france-24",
+    "display_name": "France 24",
+    "category": "politics-policy",
+    "url": "https://www.france24.com/en/rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "euronews",
+    "display_name": "Euronews",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aeuronews.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-diplomat",
+    "display_name": "The Diplomat",
+    "category": "politics-policy",
+    "url": "https://thediplomat.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "foreign-affairs",
+    "display_name": "Foreign Affairs",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aforeignaffairs.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-conversation-politics",
+    "display_name": "The Conversation Politics",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Atheconversation.edu.au+politics&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "gallup-news",
+    "display_name": "Gallup News",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Anews.gallup.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "ap-politics",
+    "display_name": "AP Politics",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "guardian-world",
+    "display_name": "Guardian World",
+    "category": "politics-policy",
+    "url": "https://www.theguardian.com/world/rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "nyt-world",
+    "display_name": "NYT World",
+    "category": "politics-policy",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "npr-politics",
+    "display_name": "NPR Politics",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Anpr.org+politics&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "reuters-politics",
+    "display_name": "Reuters Politics",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+politics&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "politico-europe",
+    "display_name": "Politico Europe",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Apolitico.eu&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "open-democracy",
+    "display_name": "Open Democracy",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aopendemocracy.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "foreign-policy",
+    "display_name": "Foreign Policy",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aforeignpolicy.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-national-interest",
+    "display_name": "The National Interest",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Athenationalinterest.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "war-on-the-rocks",
+    "display_name": "War on the Rocks",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Awarontherocks.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "lawfare",
+    "display_name": "Lawfare",
+    "category": "politics-policy",
+    "url": "https://www.lawfareblog.org/?feed=rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "just-security",
+    "display_name": "Just Security",
+    "category": "politics-policy",
+    "url": "https://justsecurity.org/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "stimson-center",
+    "display_name": "Stimson Center",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Astimson.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "international-crisis-group",
+    "display_name": "International Crisis Group",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Acrisisgroup.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "rusi",
+    "display_name": "RUSI",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Arusi.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "washington-institute",
+    "display_name": "Washington Institute",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Awashingtoninstitute.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "al-monitor",
+    "display_name": "Al-Monitor",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aal-monitor.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "rfe-rl",
+    "display_name": "RFE/RL",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Arferl.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "congress-gov-news",
+    "display_name": "Congress.gov News",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Acongress.gov&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "govtrack",
+    "display_name": "GovTrack",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Agovtrack.us&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "fec-news",
+    "display_name": "FEC News",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Afec.gov%2Fnews-events&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cbo-newsroom",
+    "display_name": "CBO Newsroom",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Acbo.gov%2Fnewsroom&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gao-newsroom",
+    "display_name": "GAO Newsroom",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Agao.gov%2Fnewsroom&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "usip-news",
+    "display_name": "USIP News",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Ausip.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "wilson-center",
+    "display_name": "Wilson Center",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Awilsoncenter.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "manhattan-institute",
+    "display_name": "Manhattan Institute",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Amanhattaninstitute.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "prri",
+    "display_name": "PRRI",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aprri.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "fivethirtyeight",
+    "display_name": "FiveThirtyEight",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Afivethirtyeight.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "new-republic",
+    "display_name": "New Republic",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Anewrepublic.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "daily-beast-politics",
+    "display_name": "Daily Beast Politics",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Adailybeast.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "newsweek",
+    "display_name": "Newsweek",
+    "category": "politics-policy",
+    "url": "https://www.newsweek.com/feeds/news",
+    "trust_tier": 2
+  },
+  {
+    "name": "time",
+    "display_name": "Time",
+    "category": "politics-policy",
+    "url": "https://time.com/rss/index.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "huffpost",
+    "display_name": "HuffPost",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Ahuffpost.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "axios",
+    "display_name": "Axios",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aaxios.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-19th",
+    "display_name": "The 19th",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Athe19th.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "statescoop",
+    "display_name": "StateScoop",
+    "category": "politics-policy",
+    "url": "https://statescoop.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "texas-tribune",
+    "display_name": "Texas Tribune",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Atexastribune.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "reuters-us",
+    "display_name": "Reuters US",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+us&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "guardian-uk-politics",
+    "display_name": "Guardian UK Politics",
+    "category": "politics-policy",
+    "url": "https://www.theguardian.com/politics/rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "bbc-news-uk",
+    "display_name": "BBC News (UK)",
+    "category": "politics-policy",
+    "url": "https://feeds.bbci.co.uk/news/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "independent-uk",
+    "display_name": "Independent UK",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Aindependent.co.uk&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "sky-news",
+    "display_name": "Sky News",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Anews.sky.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "reuters-europe",
+    "display_name": "Reuters Europe",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+europe&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "scmp",
+    "display_name": "SCMP",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Ascmp.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "japan-times",
+    "display_name": "Japan Times",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Ajapantimes.co.jp&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "bbc-asia",
+    "display_name": "BBC Asia",
+    "category": "politics-policy",
+    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "middle-east-eye",
+    "display_name": "Middle East Eye",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Amiddleeasteye.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "times-of-israel",
+    "display_name": "Times of Israel",
+    "category": "politics-policy",
+    "url": "https://www.timesofisrael.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "haaretz",
+    "display_name": "Haaretz",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Ahaaretz.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "reuters-middle-east",
+    "display_name": "Reuters Middle East",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+middle-east&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "bbc-africa",
+    "display_name": "BBC Africa",
+    "category": "politics-policy",
+    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "daily-maverick",
+    "display_name": "Daily Maverick",
+    "category": "politics-policy",
+    "url": "https://news.google.com/rss/search?q=site%3Adailymaverick.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "fortune",
+    "display_name": "Fortune",
+    "category": "business",
+    "url": "https://fortune.com/rss/full",
+    "trust_tier": 1
+  },
+  {
+    "name": "forbes-business",
+    "display_name": "Forbes Business",
+    "category": "business",
+    "url": "https://www.forbes.com/feeds/business.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "wsj-markets",
+    "display_name": "WSJ Markets",
+    "category": "business",
+    "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "cnbc-top-news",
+    "display_name": "CNBC Top News",
+    "category": "business",
+    "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+    "trust_tier": 1
+  },
+  {
+    "name": "marketwatch",
+    "display_name": "MarketWatch",
+    "category": "business",
+    "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+    "trust_tier": 1
+  },
+  {
+    "name": "bloomberg-markets",
+    "display_name": "Bloomberg Markets",
+    "category": "business",
+    "url": "https://feeds.bloomberg.com/markets/news.rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "yahoo-finance",
+    "display_name": "Yahoo Finance",
+    "category": "business",
+    "url": "https://finance.yahoo.com/news/rssindex",
+    "trust_tier": 2
+  },
+  {
+    "name": "seeking-alpha",
+    "display_name": "Seeking Alpha",
+    "category": "business",
+    "url": "https://seekingalpha.com/market_currents.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-economist-business",
+    "display_name": "The Economist Business",
+    "category": "business",
+    "url": "https://www.economist.com/business/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "barron-s",
+    "display_name": "Barron's",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Abarrons.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "project-syndicate",
+    "display_name": "Project Syndicate",
+    "category": "business",
+    "url": "https://www.project-syndicate.org/rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "wsj-economics",
+    "display_name": "WSJ Economics",
+    "category": "business",
+    "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "federal-reserve-news",
+    "display_name": "Federal Reserve News",
+    "category": "business",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "bank-of-england-news",
+    "display_name": "Bank of England News",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Abankofengland.co.uk+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ecb-news",
+    "display_name": "ECB News",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Aecb.europa.eu+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "oecd-news",
+    "display_name": "OECD News",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Aoecd.org+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "us-treasury-news",
+    "display_name": "US Treasury News",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Atreasury.gov+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "bea-news",
+    "display_name": "BEA News",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Abea.gov+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pymnts",
+    "display_name": "PYMNTS",
+    "category": "business",
+    "url": "https://www.pymnts.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "payments-dive",
+    "display_name": "Payments Dive",
+    "category": "business",
+    "url": "https://www.paymentsdive.com/feeds/news/",
+    "trust_tier": 3
+  },
+  {
+    "name": "techcrunch-business",
+    "display_name": "TechCrunch Business",
+    "category": "business",
+    "url": "https://techcrunch.com/category/business/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "techcrunch-startups",
+    "display_name": "TechCrunch Startups",
+    "category": "business",
+    "url": "https://techcrunch.com/category/startups/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "crunchbase-news",
+    "display_name": "Crunchbase News",
+    "category": "business",
+    "url": "https://news.crunchbase.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "pitchbook-news",
+    "display_name": "PitchBook News",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Apitchbook.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "sifted",
+    "display_name": "Sifted",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Asifted.eu&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "harvard-business-review",
+    "display_name": "Harvard Business Review",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Ahbr.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "business-insider",
+    "display_name": "Business Insider",
+    "category": "business",
+    "url": "https://www.businessinsider.com/rss/all",
+    "trust_tier": 2
+  },
+  {
+    "name": "inc-magazine",
+    "display_name": "Inc. Magazine",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Ainc.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "reuters-markets",
+    "display_name": "Reuters Markets",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "cnbc-economy",
+    "display_name": "CNBC Economy",
+    "category": "business",
+    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+economy&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "car-and-driver",
+    "display_name": "Car and Driver",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Acaranddriver.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "motortrend",
+    "display_name": "MotorTrend",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Amotortrend.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "top-gear",
+    "display_name": "Top Gear",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Atopgear.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "autocar",
+    "display_name": "Autocar",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Aautocar.co.uk&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "road-track",
+    "display_name": "Road & Track",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Aroadandtrack.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "carscoops",
+    "display_name": "Carscoops",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Acarscoops.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "carbuzz",
+    "display_name": "CarBuzz",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Acarbuzz.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-drive",
+    "display_name": "The Drive",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Athedrive.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "motor1",
+    "display_name": "Motor1",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Amotor1.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "jalopnik",
+    "display_name": "Jalopnik",
+    "category": "cars",
+    "url": "https://jalopnik.com/rss.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "hagerty-news",
+    "display_name": "Hagerty News",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Ahagerty.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "edmunds-news",
+    "display_name": "Edmunds News",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Aedmunds.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "kelley-blue-book",
+    "display_name": "Kelley Blue Book",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Akbb.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "electrek",
+    "display_name": "Electrek",
+    "category": "cars",
+    "url": "https://electrek.co/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "cleantechnica",
+    "display_name": "CleanTechnica",
+    "category": "cars",
+    "url": "https://cleantechnica.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "insideevs",
+    "display_name": "InsideEVs",
+    "category": "cars",
+    "url": "https://insideevs.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "green-car-reports",
+    "display_name": "Green Car Reports",
+    "category": "cars",
+    "url": "https://www.greencarreports.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "tesla-newsroom",
+    "display_name": "Tesla Newsroom",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Ateslamotors.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "toyota-newsroom",
+    "display_name": "Toyota Newsroom",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Atoyota.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ford-newsroom",
+    "display_name": "Ford Newsroom",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Aford.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gm-newsroom",
+    "display_name": "GM Newsroom",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Agm.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "hyundai-newsroom",
+    "display_name": "Hyundai Newsroom",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Ahyundai.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "volkswagen-group-news",
+    "display_name": "Volkswagen Group News",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Avolkswagen-group.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "bmw-group-press",
+    "display_name": "BMW Group Press",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site%3Abmwgroup.com+press&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "formula-1-official",
+    "display_name": "Formula 1 Official",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Aformula1.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "espn-f1",
+    "display_name": "ESPN F1",
+    "category": "f1",
+    "url": "https://www.espn.com/espn/rss/f1",
+    "trust_tier": 1
+  },
+  {
+    "name": "bbc-sport-f1",
+    "display_name": "BBC Sport F1",
+    "category": "f1",
+    "url": "https://feeds.bbci.co.uk/sport/formula-one/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "autosport-f1",
+    "display_name": "Autosport F1",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Aautosport.com+formula+1&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "motorsport-com-f1",
+    "display_name": "Motorsport.com F1",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Amotorsport.com+formula+1&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "crash-net-f1",
+    "display_name": "Crash.net F1",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Acrash.net+f1&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "racingnews365-f1",
+    "display_name": "RacingNews365 F1",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Aracingnews365.com+f1&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-race-f1",
+    "display_name": "The Race F1",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Atherace.co.uk+formula+1&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "sky-sports-f1",
+    "display_name": "Sky Sports F1",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Anews.sky.com+formula+1&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gpblog",
+    "display_name": "GPblog",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Agpblog.fr&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "drive-com-au-f1",
+    "display_name": "Drive.com.au F1",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Adrive.com.au+formula+1&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "mclaren-newsroom",
+    "display_name": "McLaren Newsroom",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Amclaren.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ferrari-scuderia-news",
+    "display_name": "Ferrari Scuderia News",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Aferrari.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "red-bull-racing-news",
+    "display_name": "Red Bull Racing News",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Aredbullracing.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "mercedes-amg-petronas-f1",
+    "display_name": "Mercedes-AMG Petronas F1",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site%3Amercedesamgpetronas.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "marvel-com-news",
+    "display_name": "Marvel.com News",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Amarvel.com+news&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "cbr-marvel",
+    "display_name": "CBR Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Acomicbookresource.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "ign-marvel",
+    "display_name": "IGN Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Aign.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "screen-rant-marvel",
+    "display_name": "Screen Rant Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Ascreenrant.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "collider-marvel",
+    "display_name": "Collider Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Acollider.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-direct-marvel",
+    "display_name": "The Direct Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Athedirect.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "comingsoon-marvel",
+    "display_name": "ComingSoon Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Acomingsoon.net+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "newsowl-marvel",
+    "display_name": "NewsOwl Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Anewsowl.co+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "entertainment-weekly-marvel",
+    "display_name": "Entertainment Weekly Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Aew.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "variety-mcu",
+    "display_name": "Variety MCU",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Avariety.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "deadline-marvel",
+    "display_name": "Deadline Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Adeadline.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "hollywood-reporter-marvel",
+    "display_name": "Hollywood Reporter Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Ahollywoodreporter.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "mcu-news",
+    "display_name": "MCU News",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=%22Marvel+Cinematic+Universe%22&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "avengers-news",
+    "display_name": "Avengers News",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=%22Avengers%22+movie+OR+series&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "spider-man-news",
+    "display_name": "Spider-Man News",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=%22Spider-Man%22+movie&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "marvel-snap-news",
+    "display_name": "Marvel Snap News",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=%22Marvel+Snap%22&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "marvel-rivals-news",
+    "display_name": "Marvel Rivals News",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=%22Marvel+Rivals%22&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "disney-marvel",
+    "display_name": "Disney+ Marvel",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site%3Adisneyplus.com+marvel&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "videogameschronicle",
+    "display_name": "Video Games Chronicle",
+    "category": "gaming",
+    "url": "https://www.vgc.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "gameinformer",
+    "display_name": "The Game Informer",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:gameinformer.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "purexbox",
+    "display_name": "Pure Xbox",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:purexbox.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gematsu",
+    "display_name": "Gematsu",
+    "category": "gaming",
+    "url": "https://www.gematsu.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "siliconera",
+    "display_name": "Siliconera",
+    "category": "gaming",
+    "url": "https://siliconera.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "dualshockers",
+    "display_name": "DualShockers",
+    "category": "gaming",
+    "url": "https://dualshockers.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "thegamer",
+    "display_name": "TheGamer",
+    "category": "gaming",
+    "url": "https://www.thegamer.com/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "gamerant",
+    "display_name": "GameRant",
+    "category": "gaming",
+    "url": "https://gamerant.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "gamebyte",
+    "display_name": "GameByte",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:gamebyte.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "si-games",
+    "display_name": "Sports Illustrated: Games",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:videogames.si.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gamingbolt",
+    "display_name": "GamingBolt",
+    "category": "gaming",
+    "url": "https://gamingbolt.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "wccftech",
+    "display_name": "WCCFtech",
+    "category": "gaming",
+    "url": "https://www.wccftech.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "tech4gamers",
+    "display_name": "Tech4Gamers",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:tech4gamers.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gamingonlinux",
+    "display_name": "Gaming on Linux",
+    "category": "gaming",
+    "url": "https://www.gamingonlinux.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "massivelyop",
+    "display_name": "Massively OP",
+    "category": "gaming",
+    "url": "https://massivelyop.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "mmorpg",
+    "display_name": "MMORPG.com",
+    "category": "gaming",
+    "url": "https://www.mmorpg.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "mmo-champion",
+    "display_name": "MMO-Champion",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:mmo-champion.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "wowhead",
+    "display_name": "WoWHead",
+    "category": "gaming",
+    "url": "https://www.wowhead.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "icy-veins",
+    "display_name": "Icy Veins",
+    "category": "gaming",
+    "url": "https://icy-veins.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "esports-net",
+    "display_name": "Esports.net",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:esports.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "dexerto",
+    "display_name": "Dexerto",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:dexerto.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "esportsinsider",
+    "display_name": "Esports Insider",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:esportsinsider.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "esports-gg",
+    "display_name": "Esports.gg",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:esports.gg&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "liquipedia",
+    "display_name": "Liquipedia",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:liquipedia.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gosugamers",
+    "display_name": "GosuGamers",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:gosugamers.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "vlr",
+    "display_name": "VLR.gg",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:vlr.gg&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "tracker-gg",
+    "display_name": "Tracker.gg",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:tracker.gg&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "opgg",
+    "display_name": "OP.GG",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:op.gg&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ugg",
+    "display_name": "U.GG",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:u.gg&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "game8",
+    "display_name": "Game8",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:game8.co&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gamewith",
+    "display_name": "GameWith",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:gamewith.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "rpgsite",
+    "display_name": "RPGSite",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:rpgsite.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "jrpg",
+    "display_name": "JRPG",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:jrpg.jp&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "rpgfan",
+    "display_name": "RPGFan",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:rpgfan.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "nichegamer",
+    "display_name": "Niche Gamer",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:nichegamer.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "hardcoregamer",
+    "display_name": "HardcoreGamer",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:hardcoregamer.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gamepressure",
+    "display_name": "GamePressure",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:gamepressure.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gamewatcher",
+    "display_name": "GameWatcher",
+    "category": "gaming",
+    "url": "https://gamewatcher.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "strategyinformer",
+    "display_name": "Strategy Informer",
+    "category": "gaming",
+    "url": "https://strategyinformer.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "pcgameshardware",
+    "display_name": "PC Games Hardware",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:pcgameshardware.de&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "game-debate",
+    "display_name": "Game Debate",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:game-debate.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "techpowerup",
+    "display_name": "TechPowerUp",
+    "category": "technology",
+    "url": "https://www.techpowerup.com/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "digitalfoundry",
+    "display_name": "Digital Foundry",
+    "category": "gaming",
+    "url": "https://www.digitalfoundry.net/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "theloadout",
+    "display_name": "The Loadout",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:theloadout.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ggrecon",
+    "display_name": "GGRecon",
+    "category": "gaming",
+    "url": "https://ggrecon.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "charlieintel",
+    "display_name": "Charlie Intel",
+    "category": "gaming",
+    "url": "https://charlieintel.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "insider-gaming",
+    "display_name": "Insider Gaming",
+    "category": "gaming",
+    "url": "https://insider-gaming.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "mp1st",
+    "display_name": "MP1st",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:mp1st.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "playstationlifestyle",
+    "display_name": "PlayStation Lifestyle",
+    "category": "gaming",
+    "url": "https://www.playstationlifestyle.net/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "nintendo-newsroom",
+    "display_name": "Nintendo Newsroom",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:news.nintendo.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "nintendoeverything",
+    "display_name": "Nintendo Everything",
+    "category": "gaming",
+    "url": "https://nintendoeverything.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "mynintendonews",
+    "display_name": "My Nintendo News",
+    "category": "gaming",
+    "url": "https://www.mynintendonews.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "nintendoworldreport",
+    "display_name": "Nintendo World Report",
+    "category": "gaming",
+    "url": "https://nintendoworldreport.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "gamexplain",
+    "display_name": "GameXplain",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:gamexplain.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "easyallies",
+    "display_name": "Easy Allies News",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:easyallies.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gamedeveloper",
+    "display_name": "Games Developer",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:gamedeveloper.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gamasutra",
+    "display_name": "Gamasutra (GDC)",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:gamasutra.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gameindustry-eu",
+    "display_name": "Game Industry EU",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:gameindustry.eu&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gameworldobserver",
+    "display_name": "Game World Observer",
+    "category": "gaming",
+    "url": "https://gameworldobserver.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "app2top",
+    "display_name": "App2Top",
+    "category": "gaming",
+    "url": "https://app2top.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "mobilegamer-biz",
+    "display_name": "MobileGamer.biz",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:mobilegamer.biz&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "148apps",
+    "display_name": "148Apps",
+    "category": "gaming",
+    "url": "https://news.google.com/rss/search?q=site:148apps.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pcmag",
+    "display_name": "PCMag",
+    "category": "technology",
+    "url": "https://www.pcmag.com/feeds/news",
+    "trust_tier": 2
+  },
+  {
+    "name": "zdnet",
+    "display_name": "ZDNet",
+    "category": "technology",
+    "url": "https://www.zdnet.com/news/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "computerworld",
+    "display_name": "Computerworld",
+    "category": "technology",
+    "url": "https://www.computerworld.com/rss.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "techrepublic",
+    "display_name": "TechRepublic",
+    "category": "technology",
+    "url": "https://www.techrepublic.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "anandtech",
+    "display_name": "AnandTech (archived)",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:anandtech.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "guru3d",
+    "display_name": "Guru3D",
+    "category": "technology",
+    "url": "https://www.guru3d.com/headlines.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "notebookcheck",
+    "display_name": "Notebookcheck",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:notebookcheck.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "notebookreview",
+    "display_name": "NotebookReview",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:notebookreview.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "androidpolice",
+    "display_name": "Android Police",
+    "category": "technology",
+    "url": "https://www.androidpolice.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "androidauthority",
+    "display_name": "Android Authority",
+    "category": "technology",
+    "url": "https://www.androidauthority.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "9to5google",
+    "display_name": "9to5Google",
+    "category": "technology",
+    "url": "https://9to5google.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "macrumors",
+    "display_name": "MacRumors",
+    "category": "technology",
+    "url": "https://www.macrumors.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "appleinsider",
+    "display_name": "AppleInsider",
+    "category": "technology",
+    "url": "https://appleinsider.com/articles.rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "cultofmac",
+    "display_name": "Cult of Mac",
+    "category": "technology",
+    "url": "https://www.cultofmac.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "imore",
+    "display_name": "iMore",
+    "category": "technology",
+    "url": "https://imore.com/rss",
+    "trust_tier": 3
+  },
+  {
+    "name": "windowscentral",
+    "display_name": "Windows Central",
+    "category": "technology",
+    "url": "https://www.windowscentral.com/rss/full",
+    "trust_tier": 2
+  },
+  {
+    "name": "neowin",
+    "display_name": "NeoWin",
+    "category": "technology",
+    "url": "https://www.neowin.net/news/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "onmsft",
+    "display_name": "OnMSFT",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:onmsft.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ghacks",
+    "display_name": "GHacks",
+    "category": "technology",
+    "url": "https://www.ghacks.net/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "betanews",
+    "display_name": "BetaNews",
+    "category": "technology",
+    "url": "https://betanews.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "softpedia",
+    "display_name": "Softpedia",
+    "category": "technology",
+    "url": "https://www.softpedia.com/newsRSS.shtml",
+    "trust_tier": 3
+  },
+  {
+    "name": "majorgeeks",
+    "display_name": "MajorGeeks",
+    "category": "technology",
+    "url": "https://majorgeeks.com/rss.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "filehippo",
+    "display_name": "FileHippo",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:filehippo.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "fossbytes",
+    "display_name": "FossBytes",
+    "category": "technology",
+    "url": "https://fossbytes.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "makeuseof",
+    "display_name": "MakeUseOf",
+    "category": "technology",
+    "url": "https://www.makeuseof.com/rss/",
+    "trust_tier": 2
+  },
+  {
+    "name": "howtogeek",
+    "display_name": "How-To Geek",
+    "category": "technology",
+    "url": "https://www.howtogeek.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "lifehacker",
+    "display_name": "Lifehacker",
+    "category": "technology",
+    "url": "https://lifehacker.com/rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "slashdot",
+    "display_name": "Slashdot",
+    "category": "technology",
+    "url": "https://rss.slashdot.org/Slashdot/slashdot",
+    "trust_tier": 2
+  },
+  {
+    "name": "extremetech",
+    "display_name": "ExtremeTech",
+    "category": "technology",
+    "url": "https://extremetech.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "techspot",
+    "display_name": "TechSpot",
+    "category": "technology",
+    "url": "https://www.techspot.com/news/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "hexus",
+    "display_name": "Hexus",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:hexus.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "kitguru",
+    "display_name": "KitGuru",
+    "category": "technology",
+    "url": "https://www.kitguru.net/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "overclock3d",
+    "display_name": "Overclock3D",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:overclock3d.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "tweaktown",
+    "display_name": "TweakTown",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:tweaktown.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pcworld",
+    "display_name": "PCWorld",
+    "category": "technology",
+    "url": "https://www.pcworld.com/homepage/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "mashable",
+    "display_name": "Mashable",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:mashable.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "fastcompany",
+    "display_name": "Fast Company",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:fastcompany.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "quartz",
+    "display_name": "Quartz",
+    "category": "technology",
+    "url": "https://qz.com/arc/outboundfeeds/rss/",
+    "trust_tier": 2
+  },
+  {
+    "name": "protocol",
+    "display_name": "Protocol",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:protocol.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "semafor",
+    "display_name": "Semafor",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:semafor.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "restofworld",
+    "display_name": "Rest of World",
+    "category": "technology",
+    "url": "https://restofworld.org/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "thenextweb",
+    "display_name": "The Next Web",
+    "category": "technology",
+    "url": "https://thenextweb.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "siliconangle",
+    "display_name": "SiliconANGLE",
+    "category": "technology",
+    "url": "https://siliconangle.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "blocksandfiles",
+    "display_name": "Blocks & Files",
+    "category": "technology",
+    "url": "https://blocksandfiles.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "channelnewsasia",
+    "display_name": "CNA Tech",
+    "category": "technology",
+    "url": "https://news.google.com/rss/search?q=site:channelnewsasia.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "techinasia",
+    "display_name": "Tech in Asia",
+    "category": "technology",
+    "url": "https://www.techinasia.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "e27",
+    "display_name": "e27",
+    "category": "technology",
+    "url": "https://e27.co/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "hn-official",
+    "display_name": "Hacker News (official)",
+    "category": "software-dev",
+    "url": "https://news.ycombinator.com/rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "lobsters",
+    "display_name": "Lobsters",
+    "category": "software-dev",
+    "url": "https://lobste.rs/rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "sdtimes",
+    "display_name": "SDTimes",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:sdtimes.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "dzone",
+    "display_name": "DZone",
+    "category": "software-dev",
+    "url": "https://dzone.com/rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "infoworld",
+    "display_name": "InfoWorld",
+    "category": "software-dev",
+    "url": "https://www.infoworld.com/article/rss.xml",
+    "trust_tier": 3
+  },
+  {
+    "name": "martinfowler",
+    "display_name": "Martin Fowler",
+    "category": "software-dev",
+    "url": "https://martinfowler.com/feed.atom",
+    "trust_tier": 1
+  },
+  {
+    "name": "sedaily",
+    "display_name": "Software Engineering Daily",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:softwareengineeringdaily.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "changelog",
+    "display_name": "Changelog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:changelog.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "softwareleadweekly",
+    "display_name": "Software Lead Weekly",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:softwareleadweekly.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "console-dev",
+    "display_name": "Console.dev",
+    "category": "software-dev",
+    "url": "https://blog.console.dev/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "bytesdev",
+    "display_name": "Bytes.dev",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:bytes.dev&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pointer-io",
+    "display_name": "Pointer",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:pointer.io&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "dailydev",
+    "display_name": "daily.dev",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:daily.dev&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "hackernoon",
+    "display_name": "HackerNoon",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:hackernoon.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pythoninsider",
+    "display_name": "Python Insider",
+    "category": "software-dev",
+    "url": "https://pythoninsider.blogspot.com/feeds/posts/default",
+    "trust_tier": 3
+  },
+  {
+    "name": "planetpython",
+    "display_name": "Planet Python",
+    "category": "software-dev",
+    "url": "https://planetpython.org/atom.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "pythontutorial",
+    "display_name": "Python Tutorial",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:pythontutorial.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pythonweekly",
+    "display_name": "Python Weekly",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:pythonweekly.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "javascriptweekly",
+    "display_name": "JavaScript Weekly",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:javascriptweekly.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "nodeweekly",
+    "display_name": "Node Weekly",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:nodeweekly.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "react-status-code",
+    "display_name": "React Status Code",
+    "category": "software-dev",
+    "url": "https://react.statuscode.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "frontendfocus",
+    "display_name": "Frontend Focus",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:frontendfoc.us&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "css-tricks",
+    "display_name": "CSS-Tricks",
+    "category": "software-dev",
+    "url": "https://css-tricks.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "nextjs-blog",
+    "display_name": "Next.js Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:nextjs.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "netlify-blog",
+    "display_name": "Netlify Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:netlify.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "aws-blogs",
+    "display_name": "AWS News Blog",
+    "category": "software-dev",
+    "url": "https://aws.amazon.com/blogs/aws/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "azure-blog",
+    "display_name": "Azure Blog",
+    "category": "software-dev",
+    "url": "https://azure.microsoft.com/en-us/blog/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "meta-eng",
+    "display_name": "Meta Engineering",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:engineering.fb.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "slack-eng",
+    "display_name": "Slack Engineering",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:slack.engineering&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "uber-eng",
+    "display_name": "Uber Engineering",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:uber.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "airbnb-tech",
+    "display_name": "Airbnb Tech",
+    "category": "software-dev",
+    "url": "https://medium.com/airbnb-tech/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "shopify-eng",
+    "display_name": "Shopify Engineering",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:shopify.engineering&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "dropbox-tech",
+    "display_name": "Dropbox Tech",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:dropbox.tech&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "discord-blog",
+    "display_name": "Discord Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:discord.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "spotify-eng",
+    "display_name": "Spotify Engineering",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:engineering.atspotify.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "stripe-eng",
+    "display_name": "Stripe Engineering",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:stripe.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "segment-blog",
+    "display_name": "Segment Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:segment.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pragmaticengineer",
+    "display_name": "The Pragmatic Engineer",
+    "category": "software-dev",
+    "url": "https://blog.pragmaticengineer.com/rss/",
+    "trust_tier": 2
+  },
+  {
+    "name": "highscalability",
+    "display_name": "High Scalability",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:highscalability.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "bytebytego",
+    "display_name": "ByteByteGo",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:bytebytego.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "systemdesign-one",
+    "display_name": "System Design One",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:systemdesign.one&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "systemdesignprimer",
+    "display_name": "System Design Primer",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:systemdesignprimer.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "devinterrupted",
+    "display_name": "Dev Interrupted",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:devinterrupted.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "architecture-center",
+    "display_name": "Software Architecture Center",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:architecture-center.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "microservices-io",
+    "display_name": "Microservices.io",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:microservices.io&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "theserverside",
+    "display_name": "The Server Side",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:theserverside.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "baeldung",
+    "display_name": "Baeldung",
+    "category": "software-dev",
+    "url": "https://www.baeldung.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "reflectoring",
+    "display_name": "Reflectoring",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:reflectoring.io&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "testcontainers",
+    "display_name": "Testcontainers",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:testcontainers.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "junit",
+    "display_name": "JUnit",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:junit.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "thoughtworks-insights",
+    "display_name": "ThoughtWorks Insights",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:thoughtworks.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "codinghorror",
+    "display_name": "Coding Horror",
+    "category": "software-dev",
+    "url": "https://codinghorror.wordpress.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "joelonsoftware",
+    "display_name": "Joel on Software",
+    "category": "software-dev",
+    "url": "https://www.joelonsoftware.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "visualstudiomag",
+    "display_name": "Visual Studio Magazine",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:visualstudiomagazine.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cpp-isocpp",
+    "display_name": "C++ Standards (ISO)",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:isocpp.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cppstories",
+    "display_name": "C++ Stories",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:cppstories.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "scala-news",
+    "display_name": "Scala News",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:scala-lang.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "rails-news",
+    "display_name": "Rails News",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:rubyonrails.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "php-watch",
+    "display_name": "PHP Watch",
+    "category": "software-dev",
+    "url": "https://php.watch/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "perl-com",
+    "display_name": "Perl.com",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:perl.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "haskell-news",
+    "display_name": "Haskell News",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:haskell.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ocaml-news",
+    "display_name": "OCaml News",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:ocaml.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "nixos-blog",
+    "display_name": "NixOS Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:nixos.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "opensource-com",
+    "display_name": "Open Source.com",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:opensource.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "osi-blog",
+    "display_name": "OSI Blog",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:opensource.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "kernel-org",
+    "display_name": "kernel.org",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:kernel.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "kernelnewbies",
+    "display_name": "Kernel Newbies",
+    "category": "software-dev",
+    "url": "https://news.google.com/rss/search?q=site:kernelnewbies.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "deeplearning-batch",
+    "display_name": "DeepLearning.AI The Batch",
+    "category": "ai-ml",
+    "url": "https://www.deeplearning.ai/the-batch/feed/",
+    "trust_tier": 1
+  },
+  {
+    "name": "marktechpost",
+    "display_name": "MarkTechPost",
+    "category": "ai-ml",
+    "url": "https://www.marktechpost.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "huggingface-blog",
+    "display_name": "Hugging Face Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:huggingface.co&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "jack-clark",
+    "display_name": "Jack Clark (Import AI)",
+    "category": "ai-ml",
+    "url": "https://jack-clark.net/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "arxiv-csai",
+    "display_name": "arXiv cs.AI",
+    "category": "ai-ml",
+    "url": "http://export.arxiv.org/rss/cs.AI",
+    "trust_tier": 1
+  },
+  {
+    "name": "paperswithcode",
+    "display_name": "Papers with Code",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:paperswithcode.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "analyticsvidhya",
+    "display_name": "Analytics Vidhya",
+    "category": "ai-ml",
+    "url": "https://analyticsvidhya.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "nvidia-blog",
+    "display_name": "NVIDIA Blog",
+    "category": "ai-ml",
+    "url": "https://blogs.nvidia.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "aws-ai-blog",
+    "display_name": "AWS AI Blog",
+    "category": "ai-ml",
+    "url": "https://aws.amazon.com/blogs/ai/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "pytorch-blog",
+    "display_name": "PyTorch Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:pytorch.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "tensorflow-blog",
+    "display_name": "TensorFlow Blog",
+    "category": "ai-ml",
+    "url": "https://blog.tensorflow.org/feed",
+    "trust_tier": 1
+  },
+  {
+    "name": "keras",
+    "display_name": "Keras",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:keras.io&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "sklearn-whatsnew",
+    "display_name": "scikit-learn What's New",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:scikit-learn.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "fastai",
+    "display_name": "fast.ai",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:fast.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "distill",
+    "display_name": "Distill",
+    "category": "ai-ml",
+    "url": "https://distill.pub/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "colah",
+    "display_name": "Chris Olah's Blog",
+    "category": "ai-ml",
+    "url": "https://colah.github.io/rss.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "lilianweng",
+    "display_name": "Lil'Log",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:lilianweng.github.io&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "raschka",
+    "display_name": "Ahead of AI (S. Raschka)",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:sebastianraschka.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "chiphuyen",
+    "display_name": "Chip Huyen's Blog",
+    "category": "ai-ml",
+    "url": "https://huyenchip.com/feed.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "bitterli",
+    "display_name": "Benedikt Bitterli",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:benediktbitterli.me&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "latent-space",
+    "display_name": "Latent Space",
+    "category": "ai-ml",
+    "url": "https://www.latent.space/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-decoder",
+    "display_name": "The Decoder",
+    "category": "ai-ml",
+    "url": "https://the-decoder.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "ainews",
+    "display_name": "AI News",
+    "category": "ai-ml",
+    "url": "https://artificialintelligence-news.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "unite-ai",
+    "display_name": "Unite.ai",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:unite.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ai-news-com",
+    "display_name": "AI-News.com",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:ai-news.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "theresanaiforthat",
+    "display_name": "There's An AI For That",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:theresanaiforthat.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "futuretools",
+    "display_name": "FutureTools",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:futuretools.io&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "aitools-fyi",
+    "display_name": "AITools.fyi",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:aitools.fyi&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "producthunt-ai",
+    "display_name": "Product Hunt (AI)",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site%3Aproducthunt.com+artificial+intelligence&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "replicate-blog",
+    "display_name": "Replicate Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:replicate.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "modal-blog",
+    "display_name": "Modal Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:modal.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "together-blog",
+    "display_name": "Together AI Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:together.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "fireworks-blog",
+    "display_name": "Fireworks AI Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:fireworks.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "perplexity-hub",
+    "display_name": "Perplexity Hub",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:perplexity.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "mistral-news",
+    "display_name": "Mistral News",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:mistral.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "cohere-blog",
+    "display_name": "Cohere Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:cohere.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "ai21-blog",
+    "display_name": "AI21 Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:ai21.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "stability-news",
+    "display_name": "Stability AI News",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:stability.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "runway-news",
+    "display_name": "Runway News",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:runwayml.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "midjourney",
+    "display_name": "Midjourney",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:midjourney.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "bfl",
+    "display_name": "Black Forest Labs",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:blackforestlabs.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ollama-blog",
+    "display_name": "Ollama Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:ollama.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "lmstudio-blog",
+    "display_name": "LM Studio Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:lmstudio.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "unsloth-blog",
+    "display_name": "Unsloth Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:unsloth.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "llamaindex-blog",
+    "display_name": "LlamaIndex Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:llamaindex.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "langchain-blog",
+    "display_name": "LangChain Blog",
+    "category": "ai-ml",
+    "url": "https://blog.langchain.com/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "crewai-blog",
+    "display_name": "CrewAI Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:crewai.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "haystack-blog",
+    "display_name": "Haystack Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:haystack.deepset.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "dspy",
+    "display_name": "DSPy",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:dspy.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "vllm-blog",
+    "display_name": "vLLM Blog",
+    "category": "ai-ml",
+    "url": "https://blog.vllm.ai/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "sglang-blog",
+    "display_name": "SGLang Blog",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:sglang.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "llamacpp-releases",
+    "display_name": "llama.cpp Releases",
+    "category": "ai-ml",
+    "url": "https://github.com/ggml-org/llama.cpp/releases.atom",
+    "trust_tier": 2
+  },
+  {
+    "name": "ggml",
+    "display_name": "GGML",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:ggml.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "eleuther",
+    "display_name": "EleutherAI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:eleuther.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "bigscience",
+    "display_name": "Big Science",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:bigscience.huggingface.co&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "anthropic-alignment",
+    "display_name": "Anthropic Alignment",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:alignment.anthropic.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "transformer-circuits",
+    "display_name": "Transformer Circuits",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:transformer-circuits.pub&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 1
+  },
+  {
+    "name": "lesswrong",
+    "display_name": "LessWrong",
+    "category": "ai-ml",
+    "url": "https://www.lesswrong.com/feed.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "alignmentforum",
+    "display_name": "Alignment Forum",
+    "category": "ai-ml",
+    "url": "https://www.alignmentforum.org/feed.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "epoch-ai",
+    "display_name": "Epoch AI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:epoch.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "metaculus",
+    "display_name": "Metaculus",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:metaculus.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "aiimpacts",
+    "display_name": "AI Impacts",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:aiimpacts.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "governance-ai",
+    "display_name": "Governance.ai",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:governance.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cais",
+    "display_name": "Center for AI Safety",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:centerforaisafety.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "aiindex",
+    "display_name": "Stanford AI Index",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:aiindex.stanford.edu&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "hai-stanford",
+    "display_name": "Stanford HAI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:hai.stanford.edu&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "bair",
+    "display_name": "BAIR Berkeley",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:bair.berkeley.edu&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "vectorinstitute",
+    "display_name": "Vector Institute",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:vectorinstitute.ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "mila",
+    "display_name": "Mila Quebec",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:mila.quebec&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "allenai",
+    "display_name": "Allen Institute for AI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:allenai.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "ibm-think-ai",
+    "display_name": "IBM Think: AI",
+    "category": "ai-ml",
+    "url": "https://news.google.com/rss/search?q=site:ibm.com+think+ai&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "thehindu",
+    "display_name": "The Hindu",
+    "category": "india",
+    "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "theprint",
+    "display_name": "The Print",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:theprint.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "timesofindia",
+    "display_name": "The Times of India",
+    "category": "india",
+    "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "trust_tier": 1
+  },
+  {
+    "name": "telegraphindia",
+    "display_name": "The Telegraph",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:telegraphindia.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "theweek-in",
+    "display_name": "The Week",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:theweek.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cnnnews18",
+    "display_name": "CNN-News18",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:cnnnews18.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "economictimes",
+    "display_name": "Economic Times",
+    "category": "india",
+    "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
+    "trust_tier": 1
+  },
+  {
+    "name": "financialexpress",
+    "display_name": "Financial Express",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:financialexpress.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "businessline",
+    "display_name": "Business Line",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:businessline.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "fortuneindia",
+    "display_name": "Fortune India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:fortuneindia.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "outlookbusiness",
+    "display_name": "Outlook Business",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:outlookbusiness.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "vccircle",
+    "display_name": "VC Circle",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:vccircle.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "analyticsindiamag",
+    "display_name": "Analytics India Magazine",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:analyticsindiamag.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "yourstory",
+    "display_name": "YourStory",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:yourstory.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "inc42",
+    "display_name": "Inc42",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:inc42.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "medianama",
+    "display_name": "MediaNama",
+    "category": "india",
+    "url": "https://www.medianama.com/feed/",
+    "trust_tier": 3
+  },
+  {
+    "name": "entrackr",
+    "display_name": "Entrackr",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:entrackr.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-ken",
+    "display_name": "The Ken",
+    "category": "india",
+    "url": "https://the-ken.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "faktordaily",
+    "display_name": "Factor Daily",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:faktordaily.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "newslaundry",
+    "display_name": "NewsLaundry",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:newslaundry.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "thequint",
+    "display_name": "The Quint",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:thequint.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "altnews-in",
+    "display_name": "AltNews",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:altnews.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "boomlive",
+    "display_name": "Boom Live",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:boomlive.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "factly",
+    "display_name": "Factly",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:factly.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "thelogicalindian",
+    "display_name": "The Logical Indian",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:thelogicalindian.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "indiaspend",
+    "display_name": "IndiaSpend",
+    "category": "india",
+    "url": "https://www.indiaspend.org/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "caravanmagazine",
+    "display_name": "Caravan Magazine",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:caravanmagazine.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "frontline",
+    "display_name": "Frontline",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:frontline.thehindu.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "epw",
+    "display_name": "EPW",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:epw.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "orf",
+    "display_name": "ORF",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:orfonline.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "idsa",
+    "display_name": "IDSA",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:idsa.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "takshashila",
+    "display_name": "Takshashila",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:takshashila.org.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "prsindia",
+    "display_name": "PRS India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:prsindia.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "vidhi",
+    "display_name": "Vidhi Centre",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:vidhi.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cprindia",
+    "display_name": "CPR India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:cprindia.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "carnegieindia",
+    "display_name": "Carnegie India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:carnegieindia.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gatewayhouse",
+    "display_name": "Gateway House",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:gatewayhouse.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "observerresearch",
+    "display_name": "Observer Research Foundation",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:observerresearchfoundation.org&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pmindia",
+    "display_name": "PM India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:pmindia.gov.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "mospi",
+    "display_name": "MoSPI",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:mospi.gov.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "rbi",
+    "display_name": "RBI",
+    "category": "india",
+    "url": "https://www.rbi.org.in/rssfeeds/PressReleaseRSS.xml",
+    "trust_tier": 1
+  },
+  {
+    "name": "sebi",
+    "display_name": "SEBI",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:sebi.gov.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "nseindia",
+    "display_name": "NSE India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:nseindia.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "bseindia",
+    "display_name": "BSE India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:bseindia.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "startupindia",
+    "display_name": "Startup India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:startupindia.gov.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "meity",
+    "display_name": "MeitY",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:meity.gov.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "indiaai",
+    "display_name": "IndiaAI",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:indiaai.gov.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "isro",
+    "display_name": "ISRO",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:isro.gov.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "drdo",
+    "display_name": "DRDO",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:drdo.gov.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "sansad",
+    "display_name": "Sansad TV",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:sansad.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "eci",
+    "display_name": "Election Commission of India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:eci.gov.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "livelaw",
+    "display_name": "LiveLaw",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:livelaw.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "barandbench",
+    "display_name": "Bar & Bench",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:barandbench.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "lawbeat",
+    "display_name": "LawBeat",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:lawbeat.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "taxmann",
+    "display_name": "Taxmann",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:taxmann.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cleartax",
+    "display_name": "ClearTax",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:cleartax.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "vakilsearch",
+    "display_name": "VakilSearch",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:vakilsearch.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "techcircle",
+    "display_name": "TechCircle",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:techcircle.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "expresscomputer",
+    "display_name": "Express Computer",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:expresscomputer.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cio-india",
+    "display_name": "CIO India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:cio.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "itvoice",
+    "display_name": "IT Voice",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:itvoice.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cioreviewindia",
+    "display_name": "CIO Review India",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:cioreviewindia.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "expresspharma",
+    "display_name": "Express Pharma",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:expresspharma.in&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "team-bhp",
+    "display_name": "Team-BHP",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:team-bhp.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "sportskeeda",
+    "display_name": "Sportskeeda",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:sportskeeda.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cricbuzz",
+    "display_name": "Cricbuzz",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:cricbuzz.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "espncricinfo",
+    "display_name": "ESPNcricinfo",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site:espncricinfo.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "olympics-india",
+    "display_name": "Olympics India News",
+    "category": "india",
+    "url": "https://news.google.com/rss/search?q=site%3Aolympics.com+india&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "autoblog",
+    "display_name": "Autoblog",
+    "category": "cars",
+    "url": "https://autoblog.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "automobilemag",
+    "display_name": "Automobile Mag",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:automobilemag.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "evo-uk",
+    "display_name": "evo",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:evo.co.uk&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "carwow",
+    "display_name": "Carwow",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:carwow.co.uk&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pistonheads",
+    "display_name": "PistonHeads",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:pistonheads.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "honestjohn",
+    "display_name": "Honest John",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:honestjohn.co.uk&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "autoexpress",
+    "display_name": "Auto Express",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:autoexpress.co.uk&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "whatcar",
+    "display_name": "What Car?",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:whatcar.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "supercars-net",
+    "display_name": "Supercars.net",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:supercars.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "gtspirit",
+    "display_name": "GTSpirit",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:gtspirit.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "goodwood",
+    "display_name": "Goodwood",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:goodwood.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "bringatrailer",
+    "display_name": "Bring a Trailer",
+    "category": "cars",
+    "url": "https://bringatrailer.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "classicdriver",
+    "display_name": "Classic Driver",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:classicdriver.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "speedhunters",
+    "display_name": "Speedhunters",
+    "category": "cars",
+    "url": "https://www.speedhunters.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "drivetastefully",
+    "display_name": "Drive Tastefully",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:drivetastefully.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "petrolicious",
+    "display_name": "Petrolicious",
+    "category": "cars",
+    "url": "https://petrolicious.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "autocarindia",
+    "display_name": "AutoCar India",
+    "category": "cars",
+    "url": "https://news.google.com/rss/search?q=site:autocarindia.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "fia",
+    "display_name": "FIA",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:fia.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "the-race",
+    "display_name": "The Race",
+    "category": "f1",
+    "url": "https://the-race.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "racer-com",
+    "display_name": "Racer",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:racer.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "dailysportscar",
+    "display_name": "Daily Sportscar",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:dailysportscar.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "sportscar365",
+    "display_name": "Sportscar365",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:sportscar365.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "dirtfish",
+    "display_name": "DirtFish",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:dirtfish.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "nascar",
+    "display_name": "NASCAR",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:nascar.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "indycar",
+    "display_name": "IndyCar",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:indycar.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "motogp",
+    "display_name": "MotoGP",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:motogp.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "worldsbk",
+    "display_name": "WorldSBK",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:worldsbk.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "wrc",
+    "display_name": "WRC",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:wrc.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "fiawec",
+    "display_name": "FIA WEC",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:fiawec.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "imsa",
+    "display_name": "IMSA",
+    "category": "f1",
+    "url": "https://news.google.com/rss/search?q=site:imsa.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "indiewire",
+    "display_name": "IndieWire",
+    "category": "entertainment",
+    "url": "https://www.indiewire.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "thewrap",
+    "display_name": "The Wrap",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:thewrap.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "empireonline",
+    "display_name": "Empire",
+    "category": "entertainment",
+    "url": "https://www.empireonline.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "avclub",
+    "display_name": "A.V. Club",
+    "category": "entertainment",
+    "url": "https://www.avclub.com/rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "rogererebert",
+    "display_name": "RogerEbert.com",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:rogererebert.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "letterboxd",
+    "display_name": "Letterboxd",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:letterboxd.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "imdb",
+    "display_name": "IMDb",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:imdb.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "rottentomatoes",
+    "display_name": "Rotten Tomatoes",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:rottentomatoes.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "metacritic",
+    "display_name": "Metacritic",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:metacritic.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "boxofficemojo",
+    "display_name": "Box Office Mojo",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:boxofficemojo.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "the-numbers",
+    "display_name": "The Numbers",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:the-numbers.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "billboard",
+    "display_name": "Billboard",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:billboard.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 2
+  },
+  {
+    "name": "rollingstone",
+    "display_name": "Rolling Stone",
+    "category": "entertainment",
+    "url": "https://www.rollingstone.com/rss.xml",
+    "trust_tier": 2
+  },
+  {
+    "name": "pitchfork",
+    "display_name": "Pitchfork",
+    "category": "entertainment",
+    "url": "https://pitchfork.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "stereogum",
+    "display_name": "Stereogum",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:stereogum.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "consequence",
+    "display_name": "Consequence",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:consequence.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "nme",
+    "display_name": "NME",
+    "category": "entertainment",
+    "url": "https://www.nme.com/rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "kerrang",
+    "display_name": "Kerrang!",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:kerrang.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "loudersound",
+    "display_name": "Louder Sound",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:loudersound.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ultimateclassicrock",
+    "display_name": "Ultimate Classic Rock",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:ultimateclassicrock.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "spin-mag",
+    "display_name": "SPIN",
+    "category": "entertainment",
+    "url": "https://www.spin.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "complex",
+    "display_name": "Complex",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:complex.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "hypebeast",
+    "display_name": "Hypebeast",
+    "category": "entertainment",
+    "url": "https://hypebeast.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "highsnobiety",
+    "display_name": "Highsnobiety",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:highsnobiety.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "sneakernews",
+    "display_name": "Sneaker News",
+    "category": "entertainment",
+    "url": "https://www.sneakernews.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "fashionista",
+    "display_name": "Fashionista",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:fashionista.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "thecut",
+    "display_name": "The Cut",
+    "category": "entertainment",
+    "url": "https://www.thecut.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "vulture",
+    "display_name": "Vulture",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:vulture.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "people-com",
+    "display_name": "People",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:people.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "eonline",
+    "display_name": "E! Online",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:eonline.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "tmz",
+    "display_name": "TMZ",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:tmz.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "pagesix",
+    "display_name": "Page Six",
+    "category": "entertainment",
+    "url": "https://pagesix.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "vanityfair",
+    "display_name": "Vanity Fair",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:vanityfair.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "hollywood-com",
+    "display_name": "Hollywood.com",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:hollywood.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "fandom-wiki",
+    "display_name": "Fandom",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:fandom.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "tvline",
+    "display_name": "TVLine",
+    "category": "entertainment",
+    "url": "https://tvline.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "tvinsider",
+    "display_name": "TV Insider",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:tvinsider.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "whats-on-netflix",
+    "display_name": "What's on Netflix",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:whats-on-netflix.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "theplaylist",
+    "display_name": "The Playlist",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:theplaylist.net&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "animenewsnetwork",
+    "display_name": "Anime News Network",
+    "category": "entertainment",
+    "url": "https://www.animenewsnetwork.com/all/news.rss",
+    "trust_tier": 1
+  },
+  {
+    "name": "crunchyroll-news",
+    "display_name": "Crunchyroll News",
+    "category": "entertainment",
+    "url": "https://news.crunchyroll.com/feed/",
+    "trust_tier": 2
+  },
+  {
+    "name": "comicbook",
+    "display_name": "ComicBook",
+    "category": "entertainment",
+    "url": "https://comicbook.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "cbr",
+    "display_name": "CBR",
+    "category": "entertainment",
+    "url": "https://cbr.com/feed",
+    "trust_tier": 3
+  },
+  {
+    "name": "vice",
+    "display_name": "Vice",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:vice.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "knowyourmeme",
+    "display_name": "Know Your Meme",
+    "category": "entertainment",
+    "url": "https://news.google.com/rss/search?q=site:knowyourmeme.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "marvelstudiosnews",
+    "display_name": "Marvel Studios News",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:marvelstudiosnews.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "superherohype",
+    "display_name": "Super Hero Hype",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:superherohype.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "superhero-news",
+    "display_name": "Superhero News",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:superhero-news.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "mcuconnection",
+    "display_name": "MCU Connection",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:mcuconnection.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "marvelblog",
+    "display_name": "Marvel Blog",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:marvelblog.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "thecosmiccircus",
+    "display_name": "The Cosmic Circus",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:thecosmiccircus.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cosmicbook",
+    "display_name": "Cosmic Book",
+    "category": "marvel",
+    "url": "https://cosmicbook.net/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "murphysmultiverse",
+    "display_name": "Murphy's Multiverse",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:murphysmultiverse.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "slashfilm",
+    "display_name": "/Film",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:slashfilm.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "cinemablend",
+    "display_name": "CinemaBlend",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:cinemablend.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "movieweb",
+    "display_name": "MovieWeb",
+    "category": "marvel",
+    "url": "https://movieweb.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "joblo",
+    "display_name": "JoBlo",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:joblo.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "denofgeek",
+    "display_name": "Den of Geek",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:denofgeek.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "inverse",
+    "display_name": "Inverse",
+    "category": "marvel",
+    "url": "https://inverse.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "syfy",
+    "display_name": "Syfy",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:syfy.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "fandomwire",
+    "display_name": "Fandom Wire",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:fandomwire.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "geektyrant",
+    "display_name": "GeekTyrant",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:geektyrant.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "geekvibesnation",
+    "display_name": "Geek Vibes Nation",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:geekvibesnation.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "geekculture",
+    "display_name": "Geek Culture",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:geekculture.co&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "comicbookmovie",
+    "display_name": "Comic Book Movie",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:comicbookmovie.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "superheroinsider",
+    "display_name": "Superhero Insider",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:superheroinsider.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "heroichollywood",
+    "display_name": "Heroic Hollywood",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:heroichollywood.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "geeksofcolor",
+    "display_name": "Geeks of Color",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:geeksofcolor.co&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "bleedingcool",
+    "display_name": "Bleeding Cool",
+    "category": "marvel",
+    "url": "https://www.bleedingcool.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "aiptcomics",
+    "display_name": "AIPT Comics",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:aiptcomics.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "comicsbeat",
+    "display_name": "Comics Beat",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:comicsbeat.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "comicbookherald",
+    "display_name": "Comic Book Herald",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:comicbookherald.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "comicsalliance",
+    "display_name": "Comics Alliance",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:comicsalliance.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "leagueofcomicgeeks",
+    "display_name": "League of Comic Geeks",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:leagueofcomicgeeks.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "comicbookroundup",
+    "display_name": "Comic Book Roundup",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:comicbookroundup.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "newsarama",
+    "display_name": "Newsarama",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:newsarama.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "multiversitycomics",
+    "display_name": "Multiversity Comics",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:multiversitycomics.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "thepopverse",
+    "display_name": "The Popverse",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:thepopverse.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "comicsxf",
+    "display_name": "ComicsXF",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:comicsxf.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "comicbookdispatch",
+    "display_name": "Comic Book Dispatch",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:comicbookdispatch.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "ladbible",
+    "display_name": "LADbible",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:ladbible.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "unilad",
+    "display_name": "UniLad",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:unilad.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "buzzfeed",
+    "display_name": "BuzzFeed",
+    "category": "marvel",
+    "url": "https://www.buzzfeed.com/feed",
+    "trust_tier": 2
+  },
+  {
+    "name": "justjared",
+    "display_name": "Just Jared",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:justjared.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "hollywoodlife",
+    "display_name": "Hollywood Life",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:hollywoodlife.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "whats-on-disneyplus",
+    "display_name": "What's on Disney+",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:whats-on-disneyplus.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "thedisinsider",
+    "display_name": "The DisInsider",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:thedisinsider.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "d23",
+    "display_name": "D23",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:d23.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "disney-com",
+    "display_name": "Disney Newsroom",
+    "category": "marvel",
+    "url": "https://news.google.com/rss/search?q=site:disney.com&hl=en-US&gl=US&ceid=US:en",
+    "trust_tier": 3
+  },
+  {
+    "name": "reddit-marvelstudios",
+    "display_name": "r/MarvelStudios",
+    "category": "marvel",
+    "url": "https://www.reddit.com/r/MarvelStudios/.rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "reddit-marvel-spoilers",
+    "display_name": "r/marvelstudiosspoilers",
+    "category": "marvel",
+    "url": "https://www.reddit.com/r/marvelstudiosspoilers/.rss",
+    "trust_tier": 3
+  },
+  {
+    "name": "reddit-marvel",
+    "display_name": "r/Marvel",
+    "category": "marvel",
+    "url": "https://www.reddit.com/r/Marvel/.rss",
+    "trust_tier": 2
+  },
+  {
+    "name": "reddit-comicbooks",
+    "display_name": "r/comicbooks",
+    "category": "marvel",
+    "url": "https://www.reddit.com/r/comicbooks/.rss",
+    "trust_tier": 3
+  }
+]
