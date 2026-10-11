@@ -10,9 +10,10 @@ export const metadata = {
 };
 
 export const viewport = {
-  themeColor: "#1a1a1a",
+  themeColor: "#339af0",
   width: "device-width",
   initialScale: 1,
+  viewportFit: "cover",
 };
 
 async function safeCategories() {
