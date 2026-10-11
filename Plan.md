@@ -10,7 +10,7 @@ Living plan for `/home/naman/Projects/news-dashboard`. Supersedes the draft in `
 | Frontend language | **JavaScript** (not TypeScript) |
 | Hosting | **Local only** — Docker Compose on this machine |
 | Shared contracts | JSON Schema in `packages/shared` (not a TS types package) |
-| Auth | `user_id = "local"` until Play Store phase |
+| Auth | **None** — `user_id = "local"`; no auth planned while in testing, no Play Store publish |
 | Storage | Summary + link only (not full article body) |
 | LLM | Local Ollama; heuristic fallback if model unavailable |
 
@@ -101,7 +101,7 @@ Digest notifications (local only), keyboard polish, time-saved accuracy.
 Backoff/retry, archive after 30d, prune weak sources.
 
 **Phase 7 — Play Store (optional)**  
-Real auth, privacy policy, ToS review per source — only if personal use earned it.
+No auth (explicitly not planned for now — testing only, no Play Store publish). Privacy policy / ToS review per source — only ever if a publish is actually pursued.
 
 ## Local ops
 
