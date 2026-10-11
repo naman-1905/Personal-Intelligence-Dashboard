@@ -18,6 +18,7 @@ def _serialize(doc: dict, state: dict | None = None) -> ArticleOut:
         category=doc.get("category", ""),
         title=doc.get("title", ""),
         summary=doc.get("summary", ""),
+        article=doc.get("article") or doc.get("summary", ""),
         url=doc.get("url", ""),
         published_at=doc.get("published_at"),
         scraped_at=doc.get("scraped_at"),

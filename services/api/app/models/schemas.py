@@ -12,6 +12,7 @@ class ArticleOut(BaseModel):
     category: str
     title: str
     summary: str = ""
+    article: str = ""
     url: str
     published_at: datetime | None = None
     scraped_at: datetime | None = None
