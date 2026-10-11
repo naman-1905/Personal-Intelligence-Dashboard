@@ -24,10 +24,18 @@ db.scrape_runs.createIndex({ source: 1, started_at: -1 });
 
 const categories = [
   { slug: 'technology', name: 'Technology', icon: 'cpu', display_order: 1, enabled: true },
-  { slug: 'science', name: 'Science', icon: 'atom', display_order: 2, enabled: true },
-  { slug: 'world', name: 'World', icon: 'globe', display_order: 3, enabled: true },
-  { slug: 'business', name: 'Business', icon: 'briefcase', display_order: 4, enabled: true },
-  { slug: 'topics', name: 'Topics', icon: 'tag', display_order: 5, enabled: true },
+  { slug: 'software-dev', name: 'Software & Programming', icon: 'code', display_order: 2, enabled: true },
+  { slug: 'ai-ml', name: 'AI & Machine Learning', icon: 'brain', display_order: 3, enabled: true },
+  { slug: 'gaming', name: 'Gaming', icon: 'gamepad', display_order: 4, enabled: true },
+  { slug: 'india', name: 'India', icon: 'flag', display_order: 5, enabled: true },
+  { slug: 'politics-policy', name: 'Politics & Policy', icon: 'landmark', display_order: 6, enabled: true },
+  { slug: 'business', name: 'Business & Technology', icon: 'briefcase', display_order: 7, enabled: true },
+  { slug: 'cars', name: 'Cars & Automotive', icon: 'car', display_order: 8, enabled: true },
+  { slug: 'f1', name: 'Formula 1', icon: 'gauge', display_order: 9, enabled: true },
+  { slug: 'marvel', name: 'Marvel', icon: 'film', display_order: 10, enabled: true },
+  { slug: 'science', name: 'Science', icon: 'atom', display_order: 11, enabled: true },
+  { slug: 'world', name: 'World', icon: 'globe', display_order: 12, enabled: true },
+  { slug: 'topics', name: 'Topics', icon: 'tag', display_order: 13, enabled: true },
 ];
 
 categories.forEach((c) => {
@@ -91,13 +99,39 @@ sources.forEach((s) => {
   db.sources.updateOne({ name: s.name }, { $setOnInsert: s }, { upsert: true });
 });
 
+// Large source catalog (374 sources across 10 curated areas). Kept as JSON so it can be
+// versioned and reviewed without editing this script.
+try {
+  const fs = require('fs');
+  const catalog = JSON.parse(fs.readFileSync('/docker-entrypoint-initdb.d/sources-catalog.json', 'utf8'));
+  for (const e of catalog) {
+    if (!e.name || !e.url || !e.category) continue;
+    db.sources.updateOne(
+      { name: e.name },
+      { $setOnInsert: { name: e.name, display_name: e.display_name || e.name, category: e.category, type: 'rss', url: e.url, trust_tier: Number(e.trust_tier || 2), enabled: true, parser: {} } },
+      { upsert: true }
+    );
+  }
+  console.log(`Seeded ${catalog.length} catalog sources`);
+} catch (err) {
+  console.log('Source catalog not loaded:', err.message);
+}
+
 db.user_preferences.updateOne(
   { user_id: 'local' },
   {
     $setOnInsert: {
       user_id: 'local',
-      selected_categories: ['technology', 'science', 'world', 'business'],
-      category_order: ['technology', 'science', 'world', 'business'],
+      selected_categories: [
+        'technology', 'software-dev', 'ai-ml', 'gaming', 'india',
+        'politics-policy', 'business', 'cars', 'f1', 'marvel',
+        'science', 'world',
+      ],
+      category_order: [
+        'technology', 'software-dev', 'ai-ml', 'gaming', 'india',
+        'politics-policy', 'business', 'cars', 'f1', 'marvel',
+        'science', 'world',
+      ],
       mute_keywords: [],
       theme: 'system',
       digest_hour: 7,
