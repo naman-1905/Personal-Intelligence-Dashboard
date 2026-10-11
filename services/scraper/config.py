@@ -20,6 +20,8 @@ class Settings(BaseSettings):
     request_delay_seconds: float = 1.0
     log_level: str = "INFO"
     topics_file: str = "/app/topics.txt"
+    sources_per_cycle: int = 30
+    rss_items_per_source: int = 10
 
 
 @lru_cache
