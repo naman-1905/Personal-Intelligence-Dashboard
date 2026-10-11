@@ -1,0 +1,17 @@
+{
+  "name": "News Dashboard",
+  "short_name": "News",
+  "description": "Local personal news briefing — no algorithmic feed",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f6f3",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
