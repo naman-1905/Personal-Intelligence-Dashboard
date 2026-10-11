@@ -79,6 +79,8 @@ services:
     restart: unless-stopped
     ports:
       - "8000:8000"
+    volumes:
+      - ../infra/mongo-init/sources-catalog.json:/app/sources-catalog.json:ro
     env_file:
       - .env
     environment:
