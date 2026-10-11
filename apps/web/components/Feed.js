@@ -9,6 +9,7 @@ import {
   toggleBookmark,
   triggerScrape,
 } from "@/lib/api";
+import { ALLOWED_CATEGORIES } from "@/lib/categories";
 
 export default function Feed({
   initial,
@@ -128,8 +129,8 @@ export default function Feed({
 
   return (
     <div>
-      <h1 className="page-title">{title}</h1>
-      <p className="page-sub">{subtitle}</p>
+      <header className="feed-header"><div><div className="eyebrow">BRIEF / YOUR DAILY SIGNAL</div><h1 className="page-title">{category ? title : "What’s new today?"}</h1><p className="page-sub">{category ? subtitle : "The stories worth your attention, gathered in one quiet place."}</p></div><div className="avatar" aria-hidden="true">N</div></header>
+      <div className="category-scroller" aria-label="News categories"><a className={!category ? "selected" : ""} href="/">For you</a>{ALLOWED_CATEGORIES.map((item) => <a key={item.slug} className={category === item.slug ? "selected" : ""} href={`/?category=${item.slug}`}><span>{item.icon}</span>{item.name}</a>)}</div>
       {stats ? (
         <p className="stat-line">
           <strong>{stats.time_saved_minutes_estimate} min</strong> estimated saved ·{" "}
@@ -145,12 +146,7 @@ export default function Feed({
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
-        <button className="btn" type="submit">
-          Search
-        </button>
-        <button className="btn" type="button" onClick={onScrape} disabled={scraping}>
-          {scraping ? "Triggering…" : "Refresh sources"}
-        </button>
+        <button className="search-btn" type="submit" aria-label="Search">⌕</button>
       </form>
 
       <div className="feed">
