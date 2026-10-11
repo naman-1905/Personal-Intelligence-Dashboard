@@ -48,6 +48,20 @@ make scrape          # manual scrape trigger
 make logs
 ```
 
+## Redeploy after code changes
+
+`make-docker.sh` rebuilds & redeploys only the services affected by your local (uncommitted) changes:
+
+```bash
+./make-docker.sh              # detect changed services via git, redeploy just those
+./make-docker.sh web api      # target specific service(s): web | api | scraper
+./make-docker.sh all          # force full rebuild of all app services
+./make-docker.sh -n           # dry run — show what would happen without touching Docker
+./make-docker.sh -w 5         # watch mode: auto-redeploy as files change (polls git every 5 s)
+```
+
+Path → service mapping: `apps/web/**` → web, `services/api/**` → api, `services/scraper/**` → scraper, `infra/**` + `packages/**` → all. Docs and tooling files don't trigger a redeploy (`topics.txt` is re-read by the scraper every cycle anyway). After deploying, the script waits for API health, checks the web UI, and prints `docker compose ps`.
+
 ## Data flow
 
 1. Scheduler (every 6h, plus light check hourly) scrapes enabled RSS sources  
