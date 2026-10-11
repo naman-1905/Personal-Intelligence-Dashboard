@@ -80,6 +80,7 @@ def drain_staging(r, db, settings) -> tuple[int, int]:
             "category": item["category"],
             "title": item["title"],
             "summary": decision.get("summary") or item.get("raw_text", "")[:300],
+            "article": decision.get("article") or decision.get("summary") or item.get("raw_text", ""),
             "url": item["url"],
             "published_at": published,
             "scraped_at": scraped,

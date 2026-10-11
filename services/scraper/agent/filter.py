@@ -17,6 +17,7 @@ PROMPT = """You are a news relevance filter for a personal news dashboard. Given
   "importance": "low" | "medium" | "high",
   "tags": ["tag1", "tag2"],
   "summary": "2-3 neutral factual sentences, no hype",
+  "article": "A readable 3-5 paragraph article based only on the headline and excerpt. Explain what happened, why it matters, and what to watch next. Do not invent facts.",
   "is_noise": true or false
 }}
 The excerpt may be truncated or contain site boilerplate (navigation text, link/point counts). Judge primarily from the headline. Set pass=false only when the headline itself is clickbait, a rumor, pure opinion, celebrity gossip, or empty promotion. Legitimate news headlines about technology, science, world events, and business should pass.
@@ -43,6 +44,7 @@ def _heuristic(item: dict) -> dict[str, Any]:
         "importance": importance,
         "tags": tags,
         "summary": summary,
+        "article": f"{summary}\n\nThis report covers {title.lower()}. The available reporting provides the key context currently known; readers should treat developing details as subject to change.",
         "is_noise": is_noise,
     }
 
@@ -93,6 +95,7 @@ def filter_item(item: dict) -> dict[str, Any]:
                 else "medium",
                 "tags": parsed.get("tags") or [item.get("category", "general")],
                 "summary": (parsed.get("summary") or excerpt or title)[:500],
+                "article": (parsed.get("article") or parsed.get("summary") or excerpt or title)[:5000],
                 "is_noise": bool(parsed.get("is_noise", False)),
             }
     except Exception as exc:  # noqa: BLE001
