@@ -13,7 +13,7 @@
 | Monorepo scaffold | **Done** — all source files written |
 | FastAPI API | **Verified running** — healthy; articles/categories/**topics**/stats/digest/bookmarks endpoints confirmed |
 | Scraper service | **Verified running** — multiple full cycles completed (4→11 sources); heuristic + Ollama paths both exercised |
-| Next.js web (JavaScript) | **Verified running** — build OK; `/`, `/digest`, `/bookmarks`, `/settings`, `/article/[id]` all HTTP 200 with real data; sidebar shows dynamic Topics section |
+| Next.js web (JavaScript) | **Verified running** — build OK; `/`, `/digest`, `/bookmarks`, `/settings`, `/article/[id]` all HTTP 200 with real data; sidebar shows dynamic Topics section; mobile bottom nav + `/sections` + `/search` added 2026-10-11 (see below) |
 | Capacitor mobile-shell | **Scaffolded** — config + fallback `www/`; Android project not generated (`npx cap add android` not run) |
 | Docker Compose file | **Done** — stack builds and starts cleanly; `topics.txt` bind-mounted read-only into scraper |
 | `docker compose up` | **Completed** — all 7 containers up (mongo, redis, ollama, ollama-init, api, scraper, web) |
@@ -40,6 +40,24 @@
 - **Web** — layout fetches categories + topics, sidebar renders a "Research topics" section dynamically from the DB (badge = article count), feed page supports `/?topic=<slug>` with its own title/subtitle.
 
 Verified: sync reports `{total: 7, added: 7}`; `GET /topics` returns all 7; a test fetch of `topic:quantum-computing` returned 40 real items from Google News RSS; sidebar renders all topic links; full scrape with the 11 sources (incl. topics) ran clean.
+
+### Source catalog expansion (2026-10-11)
+
+- **`infra/mongo-init/sources-catalog.json`** — plain list of `{name, display_name, category, url, trust_tier}`; grew from 374 → **812 sources**. Consumed two ways: `01-init.js` on fresh Mongo volumes, and `services/api/app/db/seed.py::ensure_seed()` on **every API startup** (bind-mounted live at `/app/sources-catalog.json`, `$setOnInsert` upsert — new names inserted, existing rows untouched). So loading a bigger catalog only needs `docker compose restart api`.
+- **`infra/mongo-init/add_sources.py`** — idempotent generator that merges the 2026-10 expansion batch (gaming, technology, software, AI/ML, India, cars, F1, entertainment, marvel) into the catalog. Re-running adds 0. Dedup rules:
+  - Google News `site:` feeds dedupe by the *target site*, not `news.google.com`; non-`site:` GN queries get unique markers.
+  - Multi-tenant platforms (`github.io`, `substack.com`, `medium.com`, `googleblog.com`, …) dedupe by subdomain or first path segment.
+  - `MULTI_DOMAINS` (normalized: `amazon.com`, `microsoft.com`, `nvidia.com`, `arxiv.org`, `reddit.com`, …) allows multiple feeds per domain where legitimate.
+- Sites with known native RSS use it; everything else falls back to a Google News `site:` search feed (`gn()` helper).
+- Feed spot-checks: GN fallbacks return valid XML; path-specific feeds verified (`aws-ai-blog`); redirects OK because the scraper uses `httpx(follow_redirects=True)` (`e27`, `nvidia-blog`). Fixes applied: `baeldung` → `/feed` (not `/rss.xml`); `theprint` → GN fallback (`site:theprint.in`) because the site serves HTML at its feed path.
+- Pre-existing broken feeds noticed during sampling but **left as-is** (out of scope): `lwn-net`, `kotlin-blog` 404.
+
+### Mobile UI / bottom navigation (2026-10-11)
+
+- **`lucide-react`** added to `apps/web`.
+- **Bottom nav** (`components/MobileNav.js`, replaces the old text-only mobile links): five icon tabs — Top stories (`/`), Sections (`/sections`), Search (`/search`), Bookmarks (`/bookmarks`), Settings (`/settings`). Visible ≤840px, fixed to bottom with `env(safe-area-inset-bottom)` padding; ≥44 px touch targets. Desktop keeps the sidebar (hidden on mobile).
+- **New routes**: `/sections` (server component — category grid with unread counts + research topics with article counts + links to briefing/bookmarks so nothing is unreachable on mobile) and `/search` (client component — full-text search over titles/summaries/tags via `GET /articles?q=`, results rendered as `ArticleCard`s, supports `?q=` prefill).
+- **Responsive CSS** (`globals.css`): toolbar stacks vertically with full-width 44 px inputs/buttons on mobile; article cards get tighter padding, smaller headings, 3-line summary clamp; `viewportFit: cover` in the layout viewport export for safe-area insets.
 
 ---
 
