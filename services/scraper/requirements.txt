@@ -1,0 +1,10 @@
+httpx==0.28.1
+feedparser==6.0.11
+redis==5.2.1
+pymongo==4.11.3
+apscheduler==3.11.0
+beautifulsoup4==4.13.3
+selectolax==0.3.28
+pydantic==2.11.1
+pydantic-settings==2.8.1
+python-dateutil==2.9.0.post0
