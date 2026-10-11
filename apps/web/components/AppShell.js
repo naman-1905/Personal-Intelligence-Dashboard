@@ -1,30 +1,9 @@
 "use client";
 
 import { Suspense, useEffect, useState } from "react";
-import Link from "next/link";
-import { usePathname } from "next/navigation";
 import Sidebar from "@/components/Sidebar";
+import MobileNav from "@/components/MobileNav";
 import { getPreferences, updatePreferences } from "@/lib/api";
-
-function MobileNav() {
-  const pathname = usePathname();
-  return (
-    <nav className="mobile-nav">
-      <Link href="/" className={pathname === "/" ? "active" : ""}>
-        Feed
-      </Link>
-      <Link href="/digest" className={pathname === "/digest" ? "active" : ""}>
-        Briefing
-      </Link>
-      <Link href="/bookmarks" className={pathname === "/bookmarks" ? "active" : ""}>
-        Saved
-      </Link>
-      <Link href="/settings" className={pathname === "/settings" ? "active" : ""}>
-        Settings
-      </Link>
-    </nav>
-  );
-}
 
 export default function AppShell({ categories, topics = [], children }) {
   const [theme, setTheme] = useState("system");
