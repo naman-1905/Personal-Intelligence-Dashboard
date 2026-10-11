@@ -2,6 +2,7 @@ import { Suspense } from "react";
 import "./globals.css";
 import AppShell from "@/components/AppShell";
 import { getCategories, getTopics } from "@/lib/api";
+import { ALLOWED_CATEGORIES, isAllowedCategory } from "@/lib/categories";
 
 export const metadata = {
   title: "Brief — Local News Dashboard",
@@ -18,7 +19,8 @@ export const viewport = {
 
 async function safeCategories() {
   try {
-    return await getCategories();
+    const categories = await getCategories();
+    return ALLOWED_CATEGORIES.map((allowed) => categories.find((category) => isAllowedCategory(category.slug) && category.slug.includes(allowed.slug)) || allowed);
   } catch {
     return [];
   }
