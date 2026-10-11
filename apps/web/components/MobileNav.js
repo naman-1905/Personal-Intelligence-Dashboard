@@ -2,14 +2,13 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Bookmark, Home, LayoutGrid, Search, Settings } from "lucide-react";
+import { Bookmark, Home, LayoutGrid, Search } from "lucide-react";
 
 const TABS = [
   { href: "/", label: "Top stories", icon: Home },
   { href: "/sections", label: "Sections", icon: LayoutGrid },
   { href: "/search", label: "Search", icon: Search },
   { href: "/bookmarks", label: "Bookmarks", icon: Bookmark },
-  { href: "/settings", label: "Settings", icon: Settings },
 ];
 
 export default function MobileNav() {
